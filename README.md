@@ -26,11 +26,7 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
-- [LỜI CẢM ƠN - XUÂN TÂN SỬU x CodeXplore](https://www.youtube.com/watch?v=xvBXWHhceew)
-- [Làm Quen vs Pandas và DataFrame | Tự Học Data Science #1](https://www.youtube.com/watch?v=HPGYTWYM13s)
-- [Top 3 Ngôn Ngữ Lập Trình Bạn NÊN Học trong 2021 | Devlog #1](https://www.youtube.com/watch?v=ebbLwyybkSA)
-- [Lập Trình Trợ Lý Ảo FRIDAY trong Iron Man với Python](https://www.youtube.com/watch?v=Nx_kwUQKqV8)
-- [Giải LeetCode 104 - Maximum Depth of Binary Tree | Thuật Toán DFS](https://www.youtube.com/watch?v=NUx4G3WdJV0)
+- [MÌNH LÀ AI - LẦN ĐẦU LÀM CHUYỆN ẤY !!! :D](https://youtu.be/XkG3WfMy9FI)
 <!-- YOUTUBE:END -->
 
 ---
