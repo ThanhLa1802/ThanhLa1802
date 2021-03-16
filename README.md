@@ -23,7 +23,7 @@
 
 ---
 
-### 📺 Latest YouTube Videos
+### 📺 YouTube Videos
 
 <!-- YOUTUBE:START -->
 - [MÌNH LÀ AI - LẦN ĐẦU LÀM CHUYỆN ẤY !!! :D](https://youtu.be/XkG3WfMy9FI)
