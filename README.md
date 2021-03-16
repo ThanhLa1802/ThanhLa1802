@@ -33,4 +33,5 @@
 
 ### 📫 Contact me via:
 
-[website]: https://www.youtube.com/channel/UC9L5_YMFz8JfBeQtUic8-3A
+- [website]: https://www.youtube.com/channel/UC9L5_YMFz8JfBeQtUic8-3A
+- EMAIL: lathanhmta@gmail.com
