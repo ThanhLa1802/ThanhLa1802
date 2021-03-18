@@ -37,6 +37,5 @@
 
 ### 📫 Contact me via:
 - EMAIL: lathanhmta@gmail.com
-- YOTUBE[website]
-- [website]: https://www.youtube.com/channel/UC9L5_YMFz8JfBeQtUic8-3A
-
+- YOTUBE
+- [website]:https://www.youtube.com/channel/UC9L5_YMFz8JfBeQtUic8-3A
