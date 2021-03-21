@@ -27,11 +27,11 @@
 ### 📺 YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [HƯỚNG DẪN CÀI ĐẶT VÀ TẠO MÔI TRƯỜNG ẢO TRÊN ANACONDA !](https://www.youtube.com/watch?v=EIMrfcosoRE)
 - [HƯỚNG DẪN CÀI WINDOWS 10 CHI TIẾT ! FULL HD (P2)](https://www.youtube.com/watch?v=_n6V3_JAZSg)
 - [LẬP TRÌNH PYTHON CƠ BẢN #5: GIẢI THÍCH BUBBLE SORT SIÊU DỄ HIỂU!](https://www.youtube.com/watch?v=ip8lcoaNI5g)
 - [TẠO BỘ CÀI USB WINDOWS 10 CHÍNH CHỦ MICROSOFT - HƯỚNG DẪN CÀI WINDOWNS 10 (P1)](https://www.youtube.com/watch?v=318S1_N1fjQ)
 - [QUAY TRỞ LẠI DÙNG LAPTOP - THINKPAD X1 CARBON YOGA GEN 1 CÒN NGON ???](https://www.youtube.com/watch?v=uP8f86pQxNk)
-- [HƯỚNG DẪN TÁCH AUDIO TỪ VIDEO ĐƠN GIẢN, NHANH GỌN!](https://www.youtube.com/watch?v=rtx8N2xRQ0I)
 <!-- YOUTUBE:END -->
 
 ---
