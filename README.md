@@ -27,7 +27,7 @@
 ### 📺 YouTube Videos
 
 <!-- YOUTUBE:START -->
-- [FIX LỖI VCRUNTIME MSVCP140_1.DLL CHO OBS STUDIO ĐƠN GIẢN!](https://www.youtube.com/watch?v=BlwqpZVvWaE)
+- [HƯỚNG DẪN SỬA LỖI THIẾU THƯ VIỆN CHO OBS ĐƠN GIẢN! (MSVCP140_1.DLL)](https://www.youtube.com/watch?v=BlwqpZVvWaE)
 - [HƯỚNG DẪN CÀI ĐẶT VÀ TẠO MÔI TRƯỜNG ẢO TRÊN ANACONDA !](https://www.youtube.com/watch?v=EIMrfcosoRE)
 - [HƯỚNG DẪN CÀI WINDOWS 10 CHI TIẾT ! FULL HD (P2)](https://www.youtube.com/watch?v=_n6V3_JAZSg)
 - [LẬP TRÌNH PYTHON CƠ BẢN #5: GIẢI THÍCH BUBBLE SORT SIÊU DỄ HIỂU!](https://www.youtube.com/watch?v=ip8lcoaNI5g)
