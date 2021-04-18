@@ -27,11 +27,11 @@
 ### 📺 YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [COMMANDLINE ĐỂ LÀM GÌ - MỘT VÀI LỆNH CMD CƠ BẢN!](https://www.youtube.com/watch?v=uZSUx2n_Jt4)
 - [MINI PROJECT PYTHON #6: BINARY SEARCH LÀ GÌ ?](https://www.youtube.com/watch?v=qZm6-BzAcXg)
 - [HƯỚNG DẪN UPDATE WINDOWS 10 KHÔNG MÂT DỮ LIỆU!](https://www.youtube.com/watch?v=Up_zqn22Tmg)
 - [ĐỌC GHI FILE TIẾNG VIỆT ĐƠN GIẢN - LẬP TRÌNH C++ 2021](https://www.youtube.com/watch?v=MilPrD5gUFU)
 - [HƯỚNG DẪN SỬA LỖI THIẾU THƯ VIỆN CHO OBS ĐƠN GIẢN! (MSVCP140_1.DLL)](https://www.youtube.com/watch?v=BlwqpZVvWaE)
-- [HƯỚNG DẪN CÀI ĐẶT VÀ TẠO MÔI TRƯỜNG ẢO TRÊN ANACONDA !](https://www.youtube.com/watch?v=EIMrfcosoRE)
 <!-- YOUTUBE:END -->
 
 ---
