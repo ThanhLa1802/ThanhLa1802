@@ -26,11 +26,11 @@
 ### 📺 YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [HƯỚNG DẪN TẠO MÁY ẢO NHƯ THẬT VỚI VIRTUALBOX !](https://www.youtube.com/watch?v=NPvY5VCAols)
 - [CÁCH XÂY DỰNG TRỢ LÝ ẢO BẰNG PYTHON - PHẦN 1](https://www.youtube.com/watch?v=bLuRMFZW4dI)
 - [MÌNH LÀM GÌ NGÀY NGHỈ ??? - KISS THE RAIN PIANO :D (SIMPLE VERSION)](https://www.youtube.com/watch?v=pT2ejM3G_wk)
 - [HƯỚNG DẪN SỬ DỤNG GITHUB SIÊU DỄ HIỂU !!!](https://www.youtube.com/watch?v=rtg6_QtEsYw)
 - [COMMANDLINE ĐỂ LÀM GÌ - MỘT VÀI LỆNH CMD CƠ BẢN!](https://www.youtube.com/watch?v=uZSUx2n_Jt4)
-- [MINI PROJECT PYTHON #6: BINARY SEARCH LÀ GÌ ?](https://www.youtube.com/watch?v=qZm6-BzAcXg)
 <!-- YOUTUBE:END -->
 
 ---
