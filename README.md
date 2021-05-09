@@ -26,7 +26,7 @@
 ### 📺 YouTube Videos
 
 <!-- YOUTUBE:START -->
-- [XÂY DỰNG TRỢ LÝ ẢO: TRANG WEB VÀ TÌM KIẾM GOOGLE - PHẦN 2](https://www.youtube.com/watch?v=DcNWMA8GMcg)
+- [XÂY DỰNG TRỢ LÝ ẢO PYTHON: MỞ TRANG WEB VÀ GOOGLE SEARCH - PHẦN 2](https://www.youtube.com/watch?v=DcNWMA8GMcg)
 - [HƯỚNG DẪN TẠO MÁY ẢO NHƯ THẬT VỚI VIRTUALBOX !](https://www.youtube.com/watch?v=NPvY5VCAols)
 - [CÁCH XÂY DỰNG TRỢ LÝ ẢO BẰNG PYTHON - PHẦN 1](https://www.youtube.com/watch?v=bLuRMFZW4dI)
 - [MÌNH LÀM GÌ NGÀY NGHỈ ??? - KISS THE RAIN PIANO :D (SIMPLE VERSION)](https://www.youtube.com/watch?v=pT2ejM3G_wk)
