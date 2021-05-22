@@ -26,11 +26,11 @@
 ### 📺 YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [XÂY DỰNG TRỢ LÝ ẢO PYTHON: MỞ ỨNG DỤNG TRÊN MÁY TÍNH - PHẦN 5](https://www.youtube.com/watch?v=0X_Ek24dAyg)
 - [XÂY DỰNG TRỢ LÝ ẢO PYTHON: DỰ BÁO THỜI TIẾT - PHẦN 4](https://www.youtube.com/watch?v=Mmcd18_-rTo)
 - [XÂY DỰNG TRỢ LÝ ẢO PYTHON: MỞ NHẠC TRÊN YOUTUBE VÀ XEM GIỜ GIẤC - PHẦN 3](https://www.youtube.com/watch?v=o-JsQw9A5XA)
 - [XÂY DỰNG TRỢ LÝ ẢO PYTHON: MỞ TRANG WEB VÀ GOOGLE SEARCH - PHẦN 2](https://www.youtube.com/watch?v=DcNWMA8GMcg)
 - [HƯỚNG DẪN TẠO MÁY ẢO NHƯ THẬT VỚI VIRTUALBOX !](https://www.youtube.com/watch?v=NPvY5VCAols)
-- [CÁCH XÂY DỰNG TRỢ LÝ ẢO BẰNG PYTHON - PHẦN 1](https://www.youtube.com/watch?v=bLuRMFZW4dI)
 <!-- YOUTUBE:END -->
 
 ---
