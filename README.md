@@ -26,11 +26,11 @@
 ### 📺 YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [HƯỚNG DẪN BUILD PYTHON FILE SANG EXE ĐƠN GIẢN!](https://www.youtube.com/watch?v=O3k1gFyi54w)
 - [XÂY DỰNG TRỢ LÝ ẢO PYTHON: TÌM ĐỊNH NGHĨA TRÊN WIKIPEDIA - KẾT THÚC](https://www.youtube.com/watch?v=JwAvQ8yfBI4)
 - [XÂY DỰNG TRỢ LÝ ẢO PYTHON: THAY ĐỔI HÌNH NỀN MÁY TÍNH - PHẦN 6](https://www.youtube.com/watch?v=UPSweGBqEoQ)
 - [XÂY DỰNG TRỢ LÝ ẢO PYTHON: MỞ ỨNG DỤNG TRÊN MÁY TÍNH - PHẦN 5](https://www.youtube.com/watch?v=0X_Ek24dAyg)
 - [XÂY DỰNG TRỢ LÝ ẢO PYTHON: DỰ BÁO THỜI TIẾT - PHẦN 4](https://www.youtube.com/watch?v=Mmcd18_-rTo)
-- [XÂY DỰNG TRỢ LÝ ẢO PYTHON: MỞ NHẠC TRÊN YOUTUBE VÀ XEM GIỜ GIẤC - PHẦN 3](https://www.youtube.com/watch?v=o-JsQw9A5XA)
 <!-- YOUTUBE:END -->
 
 ---
