@@ -26,11 +26,11 @@
 ### 📺 YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [CẤU TRÚC DỮ LIỆU GIẢI THUẬT #2: HÀM SWAP KỲ LẠ ? - THAM TRỊ, THAM CHIẾU ?](https://www.youtube.com/watch?v=GADcD_yi7-o)
 - [BUILD TRỢ LÝ ẢO RA FILE EXE VÀ CHẠY NGAYTRÊN WINDOWS!](https://www.youtube.com/watch?v=A0JrYT6CcTc)
 - [CẤU TRÚC DỮ LIỆU VÀ GIẢI THUẬT C++ #1: CON TRỎ LÀ GÌ ???](https://www.youtube.com/watch?v=v4S-J6atuSU)
 - [HƯỚNG DẪN BUILD PYTHON FILE SANG EXE ĐƠN GIẢN!](https://www.youtube.com/watch?v=O3k1gFyi54w)
 - [XÂY DỰNG TRỢ LÝ ẢO PYTHON: TÌM ĐỊNH NGHĨA TRÊN WIKIPEDIA - KẾT THÚC](https://www.youtube.com/watch?v=JwAvQ8yfBI4)
-- [XÂY DỰNG TRỢ LÝ ẢO PYTHON: THAY ĐỔI HÌNH NỀN MÁY TÍNH - PHẦN 6](https://www.youtube.com/watch?v=UPSweGBqEoQ)
 <!-- YOUTUBE:END -->
 
 ---
