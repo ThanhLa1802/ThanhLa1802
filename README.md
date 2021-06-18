@@ -26,11 +26,11 @@
 ### 📺 YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [LẬP TRÌNH PYTHON CƠ BẢN #2: VARIABLES (BIẾN) AND INPUT](https://www.youtube.com/watch?v=U_vszcHQ2Cs)
 - [LẬP TRÌNH PYTHON CƠ BẢN #1: DATA TYPES, OUTPUT AND PRINT](https://www.youtube.com/watch?v=TJ-2m09YIPs)
 - [CẤU TRÚC DỮ LIỆU GIẢI THUẬT #2: HÀM SWAP KỲ LẠ ? - THAM TRỊ, THAM CHIẾU ?](https://www.youtube.com/watch?v=GADcD_yi7-o)
 - [BUILD TRỢ LÝ ẢO RA FILE EXE VÀ CHẠY NGAYTRÊN WINDOWS!](https://www.youtube.com/watch?v=A0JrYT6CcTc)
 - [CẤU TRÚC DỮ LIỆU VÀ GIẢI THUẬT C++ #1: CON TRỎ LÀ GÌ ???](https://www.youtube.com/watch?v=v4S-J6atuSU)
-- [HƯỚNG DẪN BUILD PYTHON FILE SANG EXE ĐƠN GIẢN!](https://www.youtube.com/watch?v=O3k1gFyi54w)
 <!-- YOUTUBE:END -->
 
 ---
