@@ -26,11 +26,11 @@
 ### 📺 YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [CẤU TRÚC DỮ LIỆU GIẢI THUẬT #3: STACK (NGĂN XẾP)](https://www.youtube.com/watch?v=VV0LfA-xmLo)
 - [LẬP TRÌNH PYTHON CƠ BẢN #3: CÁC PHÉP TOÁN SỐ HỌC CƠ BẢN!](https://www.youtube.com/watch?v=d95O3Whed94)
 - [ĐẬP HỘP RTX 3060 "GIÁ RẺ" THỜI BÃO COIN !!! :D](https://www.youtube.com/watch?v=_EdllHuRwMo)
 - [LẬP TRÌNH PYTHON CƠ BẢN #2: VARIABLES (BIẾN) AND INPUT](https://www.youtube.com/watch?v=U_vszcHQ2Cs)
 - [LẬP TRÌNH PYTHON CƠ BẢN #1: DATA TYPES, OUTPUT AND PRINT](https://www.youtube.com/watch?v=TJ-2m09YIPs)
-- [CẤU TRÚC DỮ LIỆU GIẢI THUẬT #2: HÀM SWAP KỲ LẠ ? - THAM TRỊ, THAM CHIẾU ?](https://www.youtube.com/watch?v=GADcD_yi7-o)
 <!-- YOUTUBE:END -->
 
 ---
