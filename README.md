@@ -26,11 +26,11 @@
 ### 📺 YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [LẬP TRÌNH PYTHON CƠ BẢN #7: CẤU TRÚC VÒNG LẶP TRONG PYTHON (FOR AND WHILE)](https://www.youtube.com/watch?v=WAi2-o02moc)
 - [LẬP TRÌNH PYTHON CƠ BẢN #6: KIỂU DỮ LIỆU DANH SÁCH TRONG PYTHON (LIST - TUPLES)](https://www.youtube.com/watch?v=rX2drxxf3Qs)
 - [LẬP TRÌNH PYTHON CƠ BẢN #5: CẤU TRÚC RẼ NHÁNH CƠ BẢN! (IF/ELSE/ELIF)](https://www.youtube.com/watch?v=Pqc37mFYZV0)
 - [LẬP TRÌNH PYTHON CƠ BẢN #4: CÁC TOÁN TỬ ĐIỀU KIỆN CƠ BẢN!](https://www.youtube.com/watch?v=YEVF5dqL0AU)
 - [CẤU TRÚC DỮ LIỆU GIẢI THUẬT #3: STACK (NGĂN XẾP)](https://www.youtube.com/watch?v=VV0LfA-xmLo)
-- [LẬP TRÌNH PYTHON CƠ BẢN #3: CÁC PHÉP TOÁN SỐ HỌC CƠ BẢN!](https://www.youtube.com/watch?v=d95O3Whed94)
 <!-- YOUTUBE:END -->
 
 ---
