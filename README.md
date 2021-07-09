@@ -26,11 +26,11 @@
 ### 📺 YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [LẬP TRÌNH PYTHON CƠ BẢN #12: LIST COMPREHENSION SIÊU DỄ HIỂU!](https://www.youtube.com/watch?v=_WDKuxlflK4)
 - [LẬP TRÌNH PYTHON CƠ BẢN #11: POSITIONAL , KEYWORDS ARGUMENT, *ARGS, **KWARGS LÀ GÌ  ?](https://www.youtube.com/watch?v=t_lCo8V4k-Q)
 - [CẤU TRÚC DỮ LIỆU GIẢI THUẬT #4:  QUEUE (HÀNG ĐỢI)](https://www.youtube.com/watch?v=oz8ieHmD6fU)
 - [LẬP TRÌNH PYTHON CƠ BẢN #10: FUNCTION - HÀM TRONG PYTHON](https://www.youtube.com/watch?v=dHaG5BA3ryI)
 - [LẬP TRÌNH PYTHON CƠ BẢN #9: KIỂU DỮ LIỆU DICTIONARY (DICT)](https://www.youtube.com/watch?v=Y-ysfFd_OpQ)
-- [LẬP TRÌNH PYTHON CƠ BẢN #8: KIỂU DỮ LIỆU SET](https://www.youtube.com/watch?v=VOjhtxDJxtg)
 <!-- YOUTUBE:END -->
 
 ---
