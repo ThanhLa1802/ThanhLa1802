@@ -26,11 +26,11 @@
 ### 📺 YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [HƯỚNG DẪN TẠO MÃ QRCODE TRONG PYTHON](https://www.youtube.com/watch?v=oXk6tzfvIQU)
 - [LẬP TRÌNH PYTHON CƠ BẢN #13: HÀM LAMBDA LÀ GÌ ???](https://www.youtube.com/watch?v=uSq0EItgTeA)
 - [CẤU TRÚC DỮ LIỆU GIẢI THUẬT #5: HIỂU NGAY 2 THUẬT TOÁN DFS VÀ BFS](https://www.youtube.com/watch?v=LZmMovf7nto)
 - [HƯỚNG DẪN DOWNLOAD VIDEO TRÊN YOUTUBE TRONG PYTHON!](https://www.youtube.com/watch?v=-SC_k6Lk6OQ)
 - [LẬP TRÌNH PYTHON CƠ BẢN #12: LIST COMPREHENSION SIÊU DỄ HIỂU!](https://www.youtube.com/watch?v=_WDKuxlflK4)
-- [LẬP TRÌNH PYTHON CƠ BẢN #11: POSITIONAL , KEYWORDS ARGUMENT, *ARGS, **KWARGS LÀ GÌ  ?](https://www.youtube.com/watch?v=t_lCo8V4k-Q)
 <!-- YOUTUBE:END -->
 
 ---
