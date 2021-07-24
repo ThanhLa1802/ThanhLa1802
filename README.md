@@ -26,11 +26,11 @@
 ### 📺 YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [LẬP TRÌNH PYTHON CƠ BẢN #14: MAP , FILTER, REDUCE TRONG PYTHON!](https://www.youtube.com/watch?v=bkd53lM9ZU4)
 - [CẤU TRÚC DỮ LIỆU GIẢI THUẬT #5: BACKTRACKING LÀ GÌ ? - CÁCH SINH HOÁN VỊ!](https://www.youtube.com/watch?v=uVzUlK3Dk-I)
 - [HƯỚNG DẪN TẠO MÃ QRCODE TRONG PYTHON](https://www.youtube.com/watch?v=oXk6tzfvIQU)
 - [LẬP TRÌNH PYTHON CƠ BẢN #13: HÀM LAMBDA LÀ GÌ ???](https://www.youtube.com/watch?v=uSq0EItgTeA)
 - [CẤU TRÚC DỮ LIỆU GIẢI THUẬT #5: HIỂU NGAY 2 THUẬT TOÁN DFS VÀ BFS](https://www.youtube.com/watch?v=LZmMovf7nto)
-- [HƯỚNG DẪN DOWNLOAD VIDEO TRÊN YOUTUBE TRONG PYTHON!](https://www.youtube.com/watch?v=-SC_k6Lk6OQ)
 <!-- YOUTUBE:END -->
 
 ---
