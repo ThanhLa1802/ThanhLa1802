@@ -26,11 +26,11 @@
 ### 📺 YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [LẬP TRÌNH PYTHON CƠ BẢN #17: if __name__ == "__main__"  LÀ GÌ ???](https://www.youtube.com/watch?v=EnObg5WbwKk)
 - [LẬP TRÌNH PYTHON CƠ BẢN #16: STRING FORMARTTING ( TRUYỀN BIẾN VÀO STRING)](https://www.youtube.com/watch?v=MfSju6xaIrU)
 - [LẬP TRÌNH PYTHON CƠ BẢN #15: CÁC PHƯƠNG THỨC XỬ LÝ STRING!](https://www.youtube.com/watch?v=aiIvXzD7P0E)
 - [CẤU TRÚC DỮ LIỆU GIẢI THUẬT #6: BÀI TOÁN XẾP QUÂN HẬU BACKTRACKING!](https://www.youtube.com/watch?v=SbTIj8c3oic)
 - [LẬP TRÌNH PYTHON CƠ BẢN #14: MAP , FILTER, REDUCE TRONG PYTHON!](https://www.youtube.com/watch?v=bkd53lM9ZU4)
-- [CẤU TRÚC DỮ LIỆU GIẢI THUẬT #5: BACKTRACKING LÀ GÌ ? - CÁCH SINH HOÁN VỊ!](https://www.youtube.com/watch?v=uVzUlK3Dk-I)
 <!-- YOUTUBE:END -->
 
 ---
