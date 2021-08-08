@@ -26,11 +26,11 @@
 ### 📺 YouTube Videos
 
 <!-- YOUTUBE:START -->
-- [LẬP TRÌNH PYTHON CƠ BẢN #17: HÀM ENUMERATE LÀ GÌ ? - REVERSE LIST!](https://www.youtube.com/watch?v=dwI2PWmCpso)
+- [LẬP TRÌNH PYTHON CƠ BẢN #19: BẾN TOÀN CỤC VÀ CỤC BỘ!](https://www.youtube.com/watch?v=n6U8BnKbnt0)
+- [LẬP TRÌNH PYTHON CƠ BẢN #18: HÀM ENUMERATE LÀ GÌ ? - REVERSE LIST!](https://www.youtube.com/watch?v=dwI2PWmCpso)
 - [CẤU TRÚC DỮ LIỆU GIẢI THUẬT #7: BIG O - ĐỘ PHỨC TẠP VỀ BỘ NHỚ LÀ GÌ ?](https://www.youtube.com/watch?v=P6jKYhg2lQo)
 - [LẬP TRÌNH PYTHON CƠ BẢN #17: if __name__ == "__main__"  LÀ GÌ ???](https://www.youtube.com/watch?v=EnObg5WbwKk)
 - [LẬP TRÌNH PYTHON CƠ BẢN #16: STRING FORMARTTING ( TRUYỀN BIẾN VÀO STRING)](https://www.youtube.com/watch?v=MfSju6xaIrU)
-- [LẬP TRÌNH PYTHON CƠ BẢN #15: CÁC PHƯƠNG THỨC XỬ LÝ STRING!](https://www.youtube.com/watch?v=aiIvXzD7P0E)
 <!-- YOUTUBE:END -->
 
 ---
