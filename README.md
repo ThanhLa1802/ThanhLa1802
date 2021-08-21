@@ -26,11 +26,11 @@
 ### 📺 YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [LẬP TRÌNH HƯỚNG ĐỐI TƯỢNG PYTHON #1: CLASS , INSTANCE , HÀM CONSTRUCTOR](https://www.youtube.com/watch?v=bJ29iS8mpQs)
 - [LẬP TRÌNH PYTHON CƠ BẢN #21: TRY/EXCEPT BLOCKS FOR ERROR HANDLING](https://www.youtube.com/watch?v=aMowOFOibmY)
 - [HIỂU NGAY LẬP TRÌNH HƯỚNG ĐỐI TƯỢNG ( OBJECT ORIENTED PROGRAMMING )](https://www.youtube.com/watch?v=BkrXq-5H-Xg)
 - [LẬP TRÌNH PYTHON CƠ BẢN #20: CÁC HÀM XỬ LÝ FILE](https://www.youtube.com/watch?v=bRaCZ6MhX0A)
 - [LẬP TRÌNH PYTHON CƠ BẢN #19: BẾN TOÀN CỤC VÀ CỤC BỘ!](https://www.youtube.com/watch?v=n6U8BnKbnt0)
-- [LẬP TRÌNH PYTHON CƠ BẢN #18: HÀM ENUMERATE LÀ GÌ ? - REVERSE LIST!](https://www.youtube.com/watch?v=dwI2PWmCpso)
 <!-- YOUTUBE:END -->
 
 ---
