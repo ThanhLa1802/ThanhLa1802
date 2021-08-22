@@ -26,11 +26,11 @@
 ### 📺 YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [CẤU TRÚC DỮ LIỆU GIẢI THUẬT #8: BIG O NOTATION - ĐỘ PHỨC TẠP VỀ THỜI GIAN (TIME COMLEXITY)](https://www.youtube.com/watch?v=Dgs9zl9Wh3s)
 - [LẬP TRÌNH HƯỚNG ĐỐI TƯỢNG PYTHON #1: CLASS , INSTANCE , HÀM CONSTRUCTOR](https://www.youtube.com/watch?v=bJ29iS8mpQs)
 - [LẬP TRÌNH PYTHON CƠ BẢN #21: TRY/EXCEPT BLOCKS FOR ERROR HANDLING](https://www.youtube.com/watch?v=aMowOFOibmY)
 - [HIỂU NGAY LẬP TRÌNH HƯỚNG ĐỐI TƯỢNG ( OBJECT ORIENTED PROGRAMMING )](https://www.youtube.com/watch?v=BkrXq-5H-Xg)
 - [LẬP TRÌNH PYTHON CƠ BẢN #20: CÁC HÀM XỬ LÝ FILE](https://www.youtube.com/watch?v=bRaCZ6MhX0A)
-- [LẬP TRÌNH PYTHON CƠ BẢN #19: BẾN TOÀN CỤC VÀ CỤC BỘ!](https://www.youtube.com/watch?v=n6U8BnKbnt0)
 <!-- YOUTUBE:END -->
 
 ---
