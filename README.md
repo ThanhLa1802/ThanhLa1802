@@ -26,11 +26,11 @@
 ### 📺 YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [LẬP TRÌNH PYTHON CƠ BẢN #22: GENERATOR LÀ GÌ ? (YIELD)](https://www.youtube.com/watch?v=Dl5QXFAzpbk)
 - [LẬP TRÌNH HƯỚNG ĐỐI TƯỢNG PYTHON #3: CLASS METHOD AND STATIC METHOD](https://www.youtube.com/watch?v=cyDB_jQABwg)
 - [KẾT NỐI 2 HAY NHIỀU MÀN DỄ DÀNG - THIẾT LẬP OBS LIVESTREAM !](https://www.youtube.com/watch?v=Q2cWW7ZDJLg)
 - [CẤU TRÚC DỮ LIỆU GIẢI THUẬT #9: LINKED LIST LÀ GÌ - INSERT TRONG LINKED LIST](https://www.youtube.com/watch?v=IvoYlYNyaQM)
 - [LẬP TRÌNH HƯỚNG ĐỐI TƯỢNG PYTHON #2: CLASS VARIABLES (BIẾN CỦA LỚP) LÀ GÌ ?](https://www.youtube.com/watch?v=8EhLApRAt-g)
-- [CẤU TRÚC DỮ LIỆU GIẢI THUẬT #8: BIG O NOTATION - ĐỘ PHỨC TẠP VỀ THỜI GIAN (TIME COMLEXITY)](https://www.youtube.com/watch?v=Dgs9zl9Wh3s)
 <!-- YOUTUBE:END -->
 
 ---
