@@ -26,11 +26,11 @@
 ### 📺 YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [CẤU TRÚC DỮ LIỆU GIẢI THUẬT #10: THÊM (VỊ TRÍ BẤT KỲ) VÀ XÓA LINKED LIST !!!](https://www.youtube.com/watch?v=TtvupcEIy3E)
 - [LẬP TRÌNH HƯỚNG ĐỐI TƯỢNG PYTHON #4: TÍNH KẾ THỪA (INHERITANCE)](https://www.youtube.com/watch?v=t6Vp4_I4icE)
 - [LẬP TRÌNH PYTHON CƠ BẢN #22: GENERATOR LÀ GÌ ? (YIELD)](https://www.youtube.com/watch?v=Dl5QXFAzpbk)
 - [LẬP TRÌNH HƯỚNG ĐỐI TƯỢNG PYTHON #3: CLASS METHOD AND STATIC METHOD](https://www.youtube.com/watch?v=cyDB_jQABwg)
 - [KẾT NỐI 2 HAY NHIỀU MÀN DỄ DÀNG - THIẾT LẬP OBS LIVESTREAM !](https://www.youtube.com/watch?v=Q2cWW7ZDJLg)
-- [CẤU TRÚC DỮ LIỆU GIẢI THUẬT #9: LINKED LIST LÀ GÌ - INSERT TRONG LINKED LIST](https://www.youtube.com/watch?v=IvoYlYNyaQM)
 <!-- YOUTUBE:END -->
 
 ---
