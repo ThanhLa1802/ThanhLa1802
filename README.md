@@ -26,7 +26,7 @@
 ### 📺 YouTube Videos
 
 <!-- YOUTUBE:START -->
-- [LẬP TRÌNH PYTHON CƠ BẢN #23: DECORATORS - HÀM TRONG HÀM](https://www.youtube.com/watch?v=RqMV_eT8cbc)
+- [LẬP TRÌNH PYTHON CƠ BẢN #23: DECORATORS LÀ GÌ ???](https://www.youtube.com/watch?v=RqMV_eT8cbc)
 - [CẤU TRÚC DỮ LIỆU GIẢI THUẬT #10: THÊM (VỊ TRÍ BẤT KỲ) VÀ XÓA LINKED LIST !!!](https://www.youtube.com/watch?v=TtvupcEIy3E)
 - [LẬP TRÌNH HƯỚNG ĐỐI TƯỢNG PYTHON #4: TÍNH KẾ THỪA (INHERITANCE)](https://www.youtube.com/watch?v=t6Vp4_I4icE)
 - [LẬP TRÌNH PYTHON CƠ BẢN #22: GENERATOR LÀ GÌ ? (YIELD)](https://www.youtube.com/watch?v=Dl5QXFAzpbk)
