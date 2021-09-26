@@ -26,11 +26,11 @@
 ### 📺 YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [LẬP TRÌNH HƯỚNG ĐỐI TƯỢNG PYTHON #6: PROPERTY, GETTER, SETTER, DELETER! (TẬP CUỐI)](https://www.youtube.com/watch?v=QvH7_CJwH8k)
 - [LẬP TRÌNH PYTHON CƠ BẢN #24: CONTEXT MANAGER LÀ GÌ ?](https://www.youtube.com/watch?v=PS4hPQOuEW8)
 - [LẬP TRÌNH HƯỚNG ĐỐI TƯỢNG PYTHON #5: CÁC METHOD ĐẶC BIỆT TRONG CLASS (SPECIAL METHODS)](https://www.youtube.com/watch?v=ygSsUXQB6Qo)
 - [LẬP TRÌNH PYTHON CƠ BẢN #23: DECORATORS LÀ GÌ ???](https://www.youtube.com/watch?v=RqMV_eT8cbc)
 - [CẤU TRÚC DỮ LIỆU GIẢI THUẬT #10: THÊM (VỊ TRÍ BẤT KỲ) VÀ XÓA LINKED LIST !!!](https://www.youtube.com/watch?v=TtvupcEIy3E)
-- [LẬP TRÌNH HƯỚNG ĐỐI TƯỢNG PYTHON #4: TÍNH KẾ THỪA (INHERITANCE)](https://www.youtube.com/watch?v=t6Vp4_I4icE)
 <!-- YOUTUBE:END -->
 
 ---
