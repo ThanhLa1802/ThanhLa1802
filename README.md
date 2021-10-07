@@ -26,11 +26,11 @@
 ### 📺 YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [3 CÁCH UPDATE WINDOWS ĐƠN GIẢN  -  BẬT TPM 2.0 TRONG BIOS!](https://www.youtube.com/watch?v=7Inkm-Yn5A0)
 - [CẤU TRÚC DỮ LIỆU GIẢI THUẬT #11: KIỂM TRA LINKED LIST ĐỐI XỨNG HAY KHÔNG (LEETCODE)](https://www.youtube.com/watch?v=-kxl7zQpLUg)
 - [LẬP TRÌNH PYTHON CƠ BẢN #25: MULTI THREADING (LUỒNG) LÀ GÌ ?](https://www.youtube.com/watch?v=HwGSmNXnUHI)
 - [LẬP TRÌNH HƯỚNG ĐỐI TƯỢNG PYTHON #6: PROPERTY, GETTER, SETTER, DELETER! (TẬP CUỐI)](https://www.youtube.com/watch?v=QvH7_CJwH8k)
 - [LẬP TRÌNH PYTHON CƠ BẢN #24: CONTEXT MANAGER LÀ GÌ ?](https://www.youtube.com/watch?v=PS4hPQOuEW8)
-- [LẬP TRÌNH HƯỚNG ĐỐI TƯỢNG PYTHON #5: CÁC METHOD ĐẶC BIỆT TRONG CLASS (SPECIAL METHODS)](https://www.youtube.com/watch?v=ygSsUXQB6Qo)
 <!-- YOUTUBE:END -->
 
 ---
