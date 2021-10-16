@@ -26,11 +26,11 @@
 ### 📺 YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [HƯỚNG DẪN XÂY DỰNG APP QUY ĐỔI TIỀN TỆ PYTHON - TKINTER](https://www.youtube.com/watch?v=Pf6V3YSK_ic)
 - [LẬP TRÌNH PYTHON CƠ BẢN #25:MULTI PROCESSING (ĐA TIẾN TRÌNH) LÀ GÌ ?](https://www.youtube.com/watch?v=_Yxr6Wx5iok)
 - [CẬP NHẬT WINDOWS 11 KHÔNG MẤT DỮ LIỆU - MẤT BAO LÂU ?](https://www.youtube.com/watch?v=a7QMAcN75JI)
 - [3 CÁCH UPDATE WINDOWS 11 ĐƠN GIẢN  -  BẬT TPM 2.0 TRONG BIOS!](https://www.youtube.com/watch?v=7Inkm-Yn5A0)
 - [CẤU TRÚC DỮ LIỆU GIẢI THUẬT #11: KIỂM TRA LINKED LIST ĐỐI XỨNG HAY KHÔNG (LEETCODE)](https://www.youtube.com/watch?v=-kxl7zQpLUg)
-- [LẬP TRÌNH PYTHON CƠ BẢN #25: MULTI THREADING (ĐA LUỒNG) LÀ GÌ ?](https://www.youtube.com/watch?v=HwGSmNXnUHI)
 <!-- YOUTUBE:END -->
 
 ---
