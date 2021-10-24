@@ -26,11 +26,11 @@
 ### 📺 YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [LẬP TRÌNH PYTHON CƠ BẢN #27: COUNTER - ĐẾM TẦN SUẤT XUẤT HIỆN](https://www.youtube.com/watch?v=58qD2Kq6FU0)
 - [VIỆC BẠN CẦN LÀM SAU KHI LÊN WINDOWS 11 -CÁCH DỌN DẸP Ổ ĐĨA!](https://www.youtube.com/watch?v=ZSj9daWefxg)
 - [HƯỚNG DẪN XÂY DỰNG APP QUY ĐỔI TIỀN TỆ PYTHON - TKINTER](https://www.youtube.com/watch?v=Pf6V3YSK_ic)
-- [LẬP TRÌNH PYTHON CƠ BẢN #25:MULTI PROCESSING (ĐA TIẾN TRÌNH) LÀ GÌ ?](https://www.youtube.com/watch?v=_Yxr6Wx5iok)
+- [LẬP TRÌNH PYTHON CƠ BẢN #26: MULTI PROCESSING (ĐA TIẾN TRÌNH) LÀ GÌ ?](https://www.youtube.com/watch?v=_Yxr6Wx5iok)
 - [CẬP NHẬT WINDOWS 11 KHÔNG MẤT DỮ LIỆU - MẤT BAO LÂU ?](https://www.youtube.com/watch?v=a7QMAcN75JI)
-- [3 CÁCH UPDATE WINDOWS 11 ĐƠN GIẢN  -  BẬT TPM 2.0 TRONG BIOS!](https://www.youtube.com/watch?v=7Inkm-Yn5A0)
 <!-- YOUTUBE:END -->
 
 ---
