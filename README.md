@@ -26,11 +26,11 @@
 ### 📺 YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [SWAP 2 VARIABLES IN PYTHON ! #SHORTS](https://www.youtube.com/watch?v=XP_xohR4_tw)
 - [TẮT CÁC APP KHỞI ĐỘNG CÙNG WINDOWS 11 - TURN OFF STARTUP APP #Shorts](https://www.youtube.com/watch?v=c2oUNhJIW1s)
 - [LẬP TRÌNH PYTHON CƠ BẢN #27: COUNTER - ĐẾM TẦN SUẤT XUẤT HIỆN](https://www.youtube.com/watch?v=58qD2Kq6FU0)
 - [VIỆC BẠN CẦN LÀM SAU KHI LÊN WINDOWS 11 -CÁCH DỌN DẸP Ổ ĐĨA!](https://www.youtube.com/watch?v=ZSj9daWefxg)
 - [HƯỚNG DẪN XÂY DỰNG APP QUY ĐỔI TIỀN TỆ PYTHON - TKINTER](https://www.youtube.com/watch?v=Pf6V3YSK_ic)
-- [LẬP TRÌNH PYTHON CƠ BẢN #26: MULTI PROCESSING (ĐA TIẾN TRÌNH) LÀ GÌ ?](https://www.youtube.com/watch?v=_Yxr6Wx5iok)
 <!-- YOUTUBE:END -->
 
 ---
