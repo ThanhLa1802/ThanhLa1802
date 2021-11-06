@@ -26,11 +26,11 @@
 ### 📺 YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [LẬP TRÌNH PYTHON: TRỢ LÝ ẢO FRIDAY KÈM GIAO DIỆN !!!](https://www.youtube.com/watch?v=oM_KP7jaF7s)
 - [LIST COMPREHENSION PYTHON ! #SHORTS](https://www.youtube.com/watch?v=xQyv8gfRoFM)
 - [ANONYMOUS/LAMBDA FUNCTION PYTHON ! #SHORTS](https://www.youtube.com/watch?v=3MpRTlO6YKU)
 - [SWAP 2 VARIABLES IN PYTHON - HOÁN ĐỔI GIÁ TRỊ 2 BIẾN! #SHORTS](https://www.youtube.com/watch?v=XP_xohR4_tw)
 - [TẮT CÁC APP KHỞI ĐỘNG CÙNG WINDOWS 11 - TURN OFF STARTUP APP #Shorts](https://www.youtube.com/watch?v=c2oUNhJIW1s)
-- [LẬP TRÌNH PYTHON CƠ BẢN #27: COUNTER - ĐẾM TẦN SUẤT XUẤT HIỆN](https://www.youtube.com/watch?v=58qD2Kq6FU0)
 <!-- YOUTUBE:END -->
 
 ---
