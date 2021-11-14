@@ -26,11 +26,11 @@
 ### 📺 YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [LẬP TRÌNH PYTHON CƠ BẢN #29: KHỞI TẠO GIÁ TRỊ MẶC ĐỊNH VỚI  DEFAULT DICT &lpar;COLLECTIONS&rpar;](https://www.youtube.com/watch?v=9iqt9EhCXwQ)
 - [LẬP TRÌNH PYTHON CƠ BẢN #28: GIẢI THÍCH NHANH VỀ CALLBACK](https://www.youtube.com/watch?v=9uoBnCS0MFw)
 - [LẬP TRÌNH PYTHON: TRỢ LÝ ẢO FRIDAY KÈM GIAO DIỆN !!!](https://www.youtube.com/watch?v=oM_KP7jaF7s)
 - [LIST COMPREHENSION PYTHON ! #SHORTS](https://www.youtube.com/watch?v=xQyv8gfRoFM)
 - [ANONYMOUS/LAMBDA FUNCTION PYTHON ! #SHORTS](https://www.youtube.com/watch?v=3MpRTlO6YKU)
-- [SWAP 2 VARIABLES IN PYTHON - HOÁN ĐỔI GIÁ TRỊ 2 BIẾN! #SHORTS](https://www.youtube.com/watch?v=XP_xohR4_tw)
 <!-- YOUTUBE:END -->
 
 ---
