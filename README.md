@@ -26,11 +26,11 @@
 ### 📺 YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [SQLite3 WITH PYTHON BASIC #1: GIỚi THIỆU CƠ SỞ DỮ LIỆU SQLite](https://www.youtube.com/watch?v=rdQAXBS3kHg)
 - [LẬP TRÌNH PYTHON CƠ BẢN #29: KHỞI TẠO GIÁ TRỊ MẶC ĐỊNH VỚI  DEFAULT DICT &lpar;COLLECTIONS&rpar;](https://www.youtube.com/watch?v=9iqt9EhCXwQ)
 - [LẬP TRÌNH PYTHON CƠ BẢN #28: GIẢI THÍCH NHANH VỀ CALLBACK](https://www.youtube.com/watch?v=9uoBnCS0MFw)
 - [LẬP TRÌNH PYTHON: TRỢ LÝ ẢO FRIDAY KÈM GIAO DIỆN !!!](https://www.youtube.com/watch?v=oM_KP7jaF7s)
 - [LIST COMPREHENSION PYTHON ! #SHORTS](https://www.youtube.com/watch?v=xQyv8gfRoFM)
-- [ANONYMOUS/LAMBDA FUNCTION PYTHON ! #SHORTS](https://www.youtube.com/watch?v=3MpRTlO6YKU)
 <!-- YOUTUBE:END -->
 
 ---
