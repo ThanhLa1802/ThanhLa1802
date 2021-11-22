@@ -26,11 +26,11 @@
 ### 📺 YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [CẤU TRÚC DỮ LIỆU GIẢI THUẬT #12: GIỚI THIỆU VỀ HASH TABLE &lpar;BẢNG BĂM&rpar; - P1](https://www.youtube.com/watch?v=OpItfJ_5l_4)
 - [HƯỚNG DẪN CÀI VOICE TIẾNG VIỆT TRÊN PYTTSX3](https://www.youtube.com/watch?v=aw7FVWOY1yE)
 - [MÀN ĐỐI ĐÁP CỰC GẮT CỦA TRỢ LÝ ẢO TIẾNG VIỆT !!!](https://www.youtube.com/watch?v=Ckm829B1nv0)
 - [HOAN KIEM LAKE AUTUMN IN NOVEMER 2021! &lpar;New normal in HaNoi&rpar;](https://www.youtube.com/watch?v=7egmpDJfR5s)
 - [SQLite3 WITH PYTHON BASIC #1: GIỚi THIỆU CƠ SỞ DỮ LIỆU SQLite](https://www.youtube.com/watch?v=rdQAXBS3kHg)
-- [LẬP TRÌNH PYTHON CƠ BẢN #29: KHỞI TẠO GIÁ TRỊ MẶC ĐỊNH VỚI  DEFAULT DICT &lpar;COLLECTIONS&rpar;](https://www.youtube.com/watch?v=9iqt9EhCXwQ)
 <!-- YOUTUBE:END -->
 
 ---
