@@ -26,11 +26,11 @@
 ### 📺 YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [SQLite3 WITH PYTHON BASIC #2:  INSERT, UPDATE, DELETE QUERY - SỬ DỤNG CLASS](https://www.youtube.com/watch?v=wKOVLYd0R3I)
 - [LẬP TRÌNH PYTHON CƠ BẢN #30: SWITCH - CASE &lpar;CẤU TRÚC RẼ NHÁNH&rpar;](https://www.youtube.com/watch?v=2TzuK_N74bs)
 - [CẤU TRÚC DỮ LIỆU GIẢI THUẬT #12: GIỚI THIỆU VỀ HASH TABLE &lpar;BẢNG BĂM&rpar; - P1](https://www.youtube.com/watch?v=OpItfJ_5l_4)
 - [HƯỚNG DẪN CÀI VOICE TIẾNG VIỆT TRÊN PYTTSX3](https://www.youtube.com/watch?v=aw7FVWOY1yE)
 - [MÀN ĐỐI ĐÁP CỰC GẮT CỦA TRỢ LÝ ẢO TIẾNG VIỆT !!!](https://www.youtube.com/watch?v=Ckm829B1nv0)
-- [HOAN KIEM LAKE AUTUMN IN NOVEMER 2021! &lpar;New normal in HaNoi&rpar;](https://www.youtube.com/watch?v=7egmpDJfR5s)
 <!-- YOUTUBE:END -->
 
 ---
