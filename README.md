@@ -26,11 +26,11 @@
 ### 📺 YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [LẬP TRÌNH BLOCKCHAIN PYTHON #2: PROOF OF WORK - TẠO ĐỘ KHÓ ĐÀO BLOCK &lpar;P3&rpar;](https://www.youtube.com/watch?v=1DEQdap0yZk)
 - [LẬP TRÌNH BLOCKCHAIN PYTHON: TẠO CHUỖI BLOCK, XÁC THỰC GIAO DỊCH &lpar;P2&rpar;](https://www.youtube.com/watch?v=huSfctIIrR0)
 - [LẬP TRÌNH BLOCKCHAIN ĐƠN GIẢN TRONG PYTHON! &lpar;P1&rpar;](https://www.youtube.com/watch?v=nIhvKvbL7eM)
 - [CẤU TRÚC DỮ LIỆU GIẢI THUẬT #13: CÀI ĐẶT HASH TABLES - XỬ LÝ VA CHẠM  BẰNG LINKEDLIST &lpar; P2&rpar;](https://www.youtube.com/watch?v=GQs3FhwEmy0)
 - [SQLite3 WITH PYTHON BASIC #2:  INSERT, UPDATE, DELETE QUERY - SỬ DỤNG CLASS](https://www.youtube.com/watch?v=wKOVLYd0R3I)
-- [LẬP TRÌNH PYTHON CƠ BẢN #30: SWITCH - CASE &lpar;CẤU TRÚC RẼ NHÁNH&rpar;](https://www.youtube.com/watch?v=2TzuK_N74bs)
 <!-- YOUTUBE:END -->
 
 ---
