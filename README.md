@@ -26,11 +26,11 @@
 ### 📺 YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [LẬP TRÌNH WEB FLASK-PYTHON #2: RETURN THẺ HTML, TRUYỀN BIẾN,  CHUYỂN HƯỚNG TRANG!](https://www.youtube.com/watch?v=bT4yNOT-eOo)
 - [SQLite3 WITH PYTHON BASIC #4: PRIMARY KEY, ORDER BY, LIMIT TRONG SQL&lpar;THE END&rpar;](https://www.youtube.com/watch?v=aWEiqF6DtKk)
 - [LẬP TRÌNH WEB FLASK-PYTHON #1:  CÁCH CÀI ĐẶT, DEMO DỰ ÁN!](https://www.youtube.com/watch?v=s_LRaPSDpyY)
 - [FLASK - PYTHON #0: TỔNG QUAN LẬP TRÌNH WEB!](https://www.youtube.com/watch?v=TkZAxnoe1qo)
 - [SQLite3 WITH PYTHON BASIC #3: VIẾT API GET, INSERT, UPDATE, DELETE!](https://www.youtube.com/watch?v=bhAQ8REMyZ8)
-- [LẬP TRÌNH BLOCKCHAIN PYTHON #3: PROOF OF WORK - TẠO ĐỘ KHÓ ĐÀO BLOCK &lpar;P3&rpar;](https://www.youtube.com/watch?v=1DEQdap0yZk)
 <!-- YOUTUBE:END -->
 
 ---
