@@ -26,11 +26,11 @@
 ### 📺 YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [CÁCH TRIỂN KHAI GIAO DIỆN WEBSITE TRÊN GITHUB ĐƠN GIẢN!](https://www.youtube.com/watch?v=MKDtu9sKUG8)
 - [LẬP TRÌNH WEB FLASK-PYTHON #4: KẾ THỪA TEMPLATE, SỬ DỤNG BOOTSTRAP](https://www.youtube.com/watch?v=PoKKO48A_pg)
 - [LẬP TRÌNH WEB FLASK-PYTHON #3: RENDER TEMPLATE, CODE PYTHON TRONG HTML](https://www.youtube.com/watch?v=AZjBgndiF4w)
 - [LẬP TRÌNH WEB FLASK-PYTHON #2: RETURN THẺ HTML, TRUYỀN BIẾN,  CHUYỂN HƯỚNG TRANG!](https://www.youtube.com/watch?v=bT4yNOT-eOo)
 - [SQLite3 WITH PYTHON BASIC #4: PRIMARY KEY, ORDER BY, LIMIT TRONG SQL&lpar;THE END&rpar;](https://www.youtube.com/watch?v=aWEiqF6DtKk)
-- [LẬP TRÌNH WEB FLASK-PYTHON #1:  CÁCH CÀI ĐẶT, DEMO DỰ ÁN!](https://www.youtube.com/watch?v=s_LRaPSDpyY)
 <!-- YOUTUBE:END -->
 
 ---
