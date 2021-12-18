@@ -26,11 +26,11 @@
 ### 📺 YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [CẤU TRÚC DỮ LIỆU GIẢI THUẬT #14: ỨNG DỤNG HASH LÀM TỪ ĐIỂN &lpar;SIMPLE DICTIONARY&rpar;](https://www.youtube.com/watch?v=tRYXvuYcCBs)
 - [LẬP TRÌNH WEB FLASK-PYTHON #5: HTTP METHODS, POST AND GET](https://www.youtube.com/watch?v=KzOhmp6qJBA)
 - [CÁCH TRIỂN KHAI GIAO DIỆN WEBSITE TRÊN GITHUB ĐƠN GIẢN!](https://www.youtube.com/watch?v=MKDtu9sKUG8)
 - [LẬP TRÌNH WEB FLASK-PYTHON #4: KẾ THỪA TEMPLATE, SỬ DỤNG BOOTSTRAP](https://www.youtube.com/watch?v=PoKKO48A_pg)
 - [LẬP TRÌNH WEB FLASK-PYTHON #3: RENDER TEMPLATE, CODE PYTHON TRONG HTML](https://www.youtube.com/watch?v=AZjBgndiF4w)
-- [LẬP TRÌNH WEB FLASK-PYTHON #2: RETURN THẺ HTML, TRUYỀN BIẾN,  CHUYỂN HƯỚNG TRANG!](https://www.youtube.com/watch?v=bT4yNOT-eOo)
 <!-- YOUTUBE:END -->
 
 ---
