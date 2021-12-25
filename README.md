@@ -26,11 +26,11 @@
 ### 📺 YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [LẬP TRÌNH WEB FLASK-PYTHON #10: ADD, UPDATE, DELETE USER](https://www.youtube.com/watch?v=3a0PMMqSKi8)
 - [LẬP TRÌNH WEB FLASK-PYTHON #9: CREATE DATABASE SQLAlchemy](https://www.youtube.com/watch?v=krLPOgN1Kg0)
 - [LẬP TRÌNH WEB FLASK-PYTHON #8: TỔNG QUAN ORM, SQLAlchemy](https://www.youtube.com/watch?v=0jYoqAXjry0)
 - [LẬP TRÌNH WEB FLASK-PYTHON #7: FLASH MESSAGE](https://www.youtube.com/watch?v=ys1sihzVvec)
 - [LẬP TRÌNH WEB FLASK-PYTHON #6: SESSION LÀ GÌ, LIFETIME SESSION](https://www.youtube.com/watch?v=sJJsehONNc8)
-- [CẤU TRÚC DỮ LIỆU GIẢI THUẬT #14: ỨNG DỤNG HASH LÀM TỪ ĐIỂN &lpar;SIMPLE DICTIONARY&rpar;](https://www.youtube.com/watch?v=tRYXvuYcCBs)
 <!-- YOUTUBE:END -->
 
 ---
