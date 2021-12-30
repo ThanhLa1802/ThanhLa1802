@@ -26,11 +26,11 @@
 ### 📺 YouTube Videos
 
 <!-- YOUTUBE:START -->
-- [LẬP TRÌNH PYTHON CƠ BẢN #31: IMPORT MODULES, PACKAGES; INIT FILE](https://www.youtube.com/watch?v=V0TuEQezlK8)
 - [Super Translate với Python và Tkinter theo phong cách DragonBall! &lpar;P2&rpar;](https://www.youtube.com/watch?v=f2IG0U1-Xjs)
 - [Super Translate với Python và Tkinter theo phong cách DragonBall! &lpar;P1&rpar;](https://www.youtube.com/watch?v=cSw_HnINaVs)
 - [LẬP TRÌNH WEB FLASK-PYTHON #12: DÙNG BLUEPRINT TÁCH MODULE](https://www.youtube.com/watch?v=CfiDFRmzZzQ)
 - [LẬP TRÌNH WEB FLASK-PYTHON #11: ADD STATIC FILE &lpar;CSS, IMAGES, JAVA SCRIPTS&rpar;](https://www.youtube.com/watch?v=FuMj3lbkf00)
+- [LẬP TRÌNH WEB FLASK-PYTHON #10: ADD, UPDATE, DELETE USER](https://www.youtube.com/watch?v=3a0PMMqSKi8)
 <!-- YOUTUBE:END -->
 
 ---
