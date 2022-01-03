@@ -26,11 +26,11 @@
 ### 📺 YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [LẬP TRÌNH TODOLIST APP - FLASK #3: XÂY DỰNG TEMPLATE](https://www.youtube.com/watch?v=vmuG4JpGpYY)
 - [LẬP TRÌNH TODOLIST APP - FLASK #2: BIẾN MÔI TRƯỜNG, TẠO BLUEPRINTS](https://www.youtube.com/watch?v=cK1LmZTEX6w)
 - [LẬP TRÌNH TODOLIST APP - FLASK #1: KHỞI TẠO DỰ ÁN!](https://www.youtube.com/watch?v=WytIfUWHtV4)
 - [LẬP TRÌNH PYTHON CƠ BẢN #31: IMPORT MODULES, PACKAGES; INIT FILE &lpar;Bổ  sung&rpar;](https://www.youtube.com/watch?v=ofFRXF6_Vng)
 - [Super Translate với Python và Tkinter theo phong cách DragonBall! &lpar;P2&rpar;](https://www.youtube.com/watch?v=f2IG0U1-Xjs)
-- [Super Translate với Python và Tkinter theo phong cách DragonBall! &lpar;P1&rpar;](https://www.youtube.com/watch?v=cSw_HnINaVs)
 <!-- YOUTUBE:END -->
 
 ---
