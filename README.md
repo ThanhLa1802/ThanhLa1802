@@ -26,11 +26,11 @@
 ### 📺 YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [LẬP TRÌNH TODOLIST APP - FLASK #7: LOGOUT VÀ LƯU SESSION USER](https://www.youtube.com/watch?v=zw1y2FflUCY)
 - [LẬP TRÌNH TODOLIST APP - FLASK #6: FLASH MESSAGES - XÂY DỰNG TRANG LOGIN](https://www.youtube.com/watch?v=S3vIftKd4PY)
 - [LẬP TRÌNH TODOLIST APP - FLASK #5: XÂY DỰNG TRANG SIGN UP &lpar;ĐĂNG KÝ TÀI KHOẢN&rpar;](https://www.youtube.com/watch?v=_JoesmZSF24)
 - [LẬP TRÌNH TODOLIST APP - FLASK #4: XÂY DỰNG DATABASE](https://www.youtube.com/watch?v=_oz2UhecP54)
 - [LẬP TRÌNH TODOLIST APP - FLASK #3: XÂY DỰNG TEMPLATE](https://www.youtube.com/watch?v=vmuG4JpGpYY)
-- [LẬP TRÌNH TODOLIST APP - FLASK #2: BIẾN MÔI TRƯỜNG, TẠO BLUEPRINTS](https://www.youtube.com/watch?v=cK1LmZTEX6w)
 <!-- YOUTUBE:END -->
 
 ---
