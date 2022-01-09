@@ -26,11 +26,11 @@
 ### 📺 YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [LẬP TRÌNH TODOLIST APP - FLASK #9: DELETE NOTE &lpar;JAVASCRIPTS&rpar;](https://www.youtube.com/watch?v=kxnqbXaW-EE)
 - [LẬP TRÌNH TODOLIST APP - FLASK #8: ADD NOTE  &lpar;THÊM CÔNG VIỆC&rpar;](https://www.youtube.com/watch?v=JB5tX5PeUg8)
 - [LẬP TRÌNH PYTHON CƠ BẢN #32: CODING CONVENTION &lpar;PEP 8&rpar; - CÁCH ĐỂ CODE DỄ ĐỌC HƠN](https://www.youtube.com/watch?v=L3EMzXKpI-w)
 - [LẬP TRÌNH TODOLIST APP - FLASK #7: LOGOUT VÀ LƯU SESSION USER](https://www.youtube.com/watch?v=zw1y2FflUCY)
 - [LẬP TRÌNH TODOLIST APP - FLASK #6: FLASH MESSAGES - XÂY DỰNG TRANG LOGIN](https://www.youtube.com/watch?v=S3vIftKd4PY)
-- [LẬP TRÌNH TODOLIST APP - FLASK #5: XÂY DỰNG TRANG SIGN UP &lpar;ĐĂNG KÝ TÀI KHOẢN&rpar;](https://www.youtube.com/watch?v=_JoesmZSF24)
 <!-- YOUTUBE:END -->
 
 ---
