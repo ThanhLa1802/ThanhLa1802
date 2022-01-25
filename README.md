@@ -26,11 +26,11 @@
 ### 📺 YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [REST API - FLASK PYTHON #8: DEMO FRONT-END!](https://www.youtube.com/watch?v=RxswWQmzcLw)
 - [REST API - FLASK PYTHON #7: CÁCH VIẾT UNIT TESTCASE CHO API!](https://www.youtube.com/watch?v=RZ2ucuWoVmA)
 - [HƯỚNG DẪN CÀI NODE JS LẬP TRÌNH JAVA SCRIPT TRÊN VS  CODE!](https://www.youtube.com/watch?v=Gxul2XV9KL8)
 - [REST API - FLASK PYTHON #6: BỔ SUNG THÊM 2 API ĐẶC BIỆT!](https://www.youtube.com/watch?v=SAVYW8gQXLo)
 - [REST API - FLASK PYTHON #5: VIẾT API  GET, UPDATE, DELETE  BOOK](https://www.youtube.com/watch?v=M9tNAZAiWnI)
-- [REST API - FLASK PYTHON #4: THƯ VIỆN MARSHMALLOW - TẠO ADD BOOK API!](https://www.youtube.com/watch?v=z8QRxod5cSE)
 <!-- YOUTUBE:END -->
 
 ---
