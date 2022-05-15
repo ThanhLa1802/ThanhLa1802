@@ -26,11 +26,11 @@
 ### 📺 YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [DỰ ÁN WEB TRAVEL ADVISOR BẰNG ReactJS, GOOGLE API, RAPID API](https://www.youtube.com/watch?v=BOTmB5qhAJA)
 - [LẬP TRÌNH HƯỚNG ĐỐI TƯỢNG PYTHON #7: TÍNH TRỪU TƯỢNG, ĐÓNG GÓI, ĐA HÌNH](https://www.youtube.com/watch?v=1sLu5xakraM)
 - [LẬP TRÌNH TODOLIST APP - FLASK #10: THỬ  DÙNG MYSQL - CHÚC MỪNG NĂM MỚI ^^](https://www.youtube.com/watch?v=hrhiYFye8Ao)
 - [REST API - FLASK PYTHON #8: DEMO FRONT-END!](https://www.youtube.com/watch?v=RxswWQmzcLw)
 - [REST API - FLASK PYTHON #7: CÁCH VIẾT UNIT TESTCASE CHO API!](https://www.youtube.com/watch?v=RZ2ucuWoVmA)
-- [HƯỚNG DẪN CÀI NODE JS LẬP TRÌNH JAVA SCRIPT TRÊN VS  CODE!](https://www.youtube.com/watch?v=Gxul2XV9KL8)
 <!-- YOUTUBE:END -->
 
 ---
