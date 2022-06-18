@@ -26,11 +26,11 @@
 ### 📺 YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [LẬP TRÌNH TODOLIST APP - FLASK #11: TRIỂN KHAI ỨNG DỤNG TRÊN DOCKER](https://www.youtube.com/watch?v=SB8rR3qXs7w)
 - [TỰ HỌC DJANGO CƠ BẢN #1: KHỞI TẠO VIEWS ĐẦU TIÊN](https://www.youtube.com/watch?v=q6wpserIMQ8)
 - [HƯỚNG DẪN CÀI ĐẶT DJANGO FRAMEWORK TRÊN ANACONDA!](https://www.youtube.com/watch?v=NQKMoj_FYbY)
 - [DỰ ÁN WEB TRAVEL ADVISOR BẰNG ReactJS, GOOGLE API, RAPID API](https://www.youtube.com/watch?v=BOTmB5qhAJA)
 - [LẬP TRÌNH HƯỚNG ĐỐI TƯỢNG PYTHON #7: TÍNH TRỪU TƯỢNG, ĐÓNG GÓI, ĐA HÌNH](https://www.youtube.com/watch?v=1sLu5xakraM)
-- [LẬP TRÌNH TODOLIST APP - FLASK #10: THỬ  DÙNG MYSQL - CHÚC MỪNG NĂM MỚI ^^](https://www.youtube.com/watch?v=hrhiYFye8Ao)
 <!-- YOUTUBE:END -->
 
 ---
