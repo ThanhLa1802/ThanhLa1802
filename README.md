@@ -26,7 +26,7 @@
 ### 📺 YouTube Videos
 
 <!-- YOUTUBE:START -->
-- [VIẾT UNITTEST PYTHON VỚI PYTEST &lpar;P1&rpar;](https://www.youtube.com/watch?v=PLIs6L8F_tw)
+- [CÁCH VIẾT UNITTEST PYTHON VỚI PYTEST &lpar;P1&rpar;](https://www.youtube.com/watch?v=PLIs6L8F_tw)
 - [TỰ HỌC DJANGO CƠ BẢN #2: KHỞI TẠO DATABASE](https://www.youtube.com/watch?v=GOuK9G3zsU0)
 - [LẬP TRÌNH TODOLIST APP - FLASK #11: TRIỂN KHAI ỨNG DỤNG TRÊN DOCKER](https://www.youtube.com/watch?v=SB8rR3qXs7w)
 - [TỰ HỌC DJANGO CƠ BẢN #1: KHỞI TẠO VIEWS ĐẦU TIÊN](https://www.youtube.com/watch?v=q6wpserIMQ8)
