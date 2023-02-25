@@ -26,11 +26,11 @@
 ### 📺 YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [TỰ HỌC DJANGO CƠ BẢN #3: TÌM HIỂU TRANG ADMIN -TƯƠNG TÁC DATABASE](https://www.youtube.com/watch?v=jKmQ4gaXNNw)
 - [TỰ HỌC DJANGO CƠ BẢN #3: THÊM DỮ LIỆU SỬ DỤNG MANAGE SHELL](https://www.youtube.com/watch?v=tthTkKUO7nw)
 - [CODE COVERAGE UNITTEST LÀ GÌ? &lpar;P2&rpar;](https://www.youtube.com/watch?v=ZQYLL3QHmS0)
 - [CÁCH VIẾT UNITTEST PYTHON VỚI PYTEST &lpar;P1&rpar;](https://www.youtube.com/watch?v=PLIs6L8F_tw)
 - [TỰ HỌC DJANGO CƠ BẢN #2: KHỞI TẠO DATABASE](https://www.youtube.com/watch?v=GOuK9G3zsU0)
-- [LẬP TRÌNH TODOLIST APP - FLASK #11: TRIỂN KHAI ỨNG DỤNG TRÊN DOCKER](https://www.youtube.com/watch?v=SB8rR3qXs7w)
 <!-- YOUTUBE:END -->
 
 ---
