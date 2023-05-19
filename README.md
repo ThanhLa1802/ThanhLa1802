@@ -26,11 +26,11 @@
 ### 📺 YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [GIỚI THIỆU VỀ AI, MACHINE LEARNING, DEEP LEANING](https://www.youtube.com/watch?v=a8riMbAS08Y)
 - [TỰ HỌC DJANGO CƠ BẢN #6:  CÁCH TẠO TEMPLATE](https://www.youtube.com/watch?v=R8FjO7AcXeQ)
 - [TỰ HỌC DJANGO CƠ BẢN #5: VIEW LÀ GÌ ? - CÁCH TẠO VIEW](https://www.youtube.com/watch?v=1uIryQoTLAE)
 - [TỰ HỌC DJANGO CƠ BẢN #4: TÌM HIỂU TRANG ADMIN - TƯƠNG TÁC DATABASE](https://www.youtube.com/watch?v=jKmQ4gaXNNw)
 - [TỰ HỌC DJANGO CƠ BẢN #3: THÊM DỮ LIỆU SỬ DỤNG MANAGE SHELL](https://www.youtube.com/watch?v=tthTkKUO7nw)
-- [CODE COVERAGE UNITTEST LÀ GÌ? &lpar;P2&rpar;](https://www.youtube.com/watch?v=ZQYLL3QHmS0)
 <!-- YOUTUBE:END -->
 
 ---
