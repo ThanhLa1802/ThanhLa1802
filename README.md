@@ -26,11 +26,11 @@
 ### 📺 YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [THƯ VIỆN PYTHON #2 - RANDOM LIBRARY](https://www.youtube.com/watch?v=6vAoGo1l8-I)
 - [LẤY LẠI DUNG LƯỢNG Ổ ĐĨA VỚI DISK-CLEAN UP WINDOWS 11! #Shorts](https://www.youtube.com/watch?v=nakeJ183NEY)
 - [THƯ VIỆN PYTHON #1 - JSON LOADS VÀ JSON DUMPS](https://www.youtube.com/watch?v=Sznk0FgBNcU)
 - [GIỚI THIỆU VỀ AI, MACHINE LEARNING, DEEP LEANING](https://www.youtube.com/watch?v=a8riMbAS08Y)
 - [TỰ HỌC DJANGO CƠ BẢN #6:  CÁCH TẠO TEMPLATE](https://www.youtube.com/watch?v=R8FjO7AcXeQ)
-- [TỰ HỌC DJANGO CƠ BẢN #5: VIEW LÀ GÌ ? - CÁCH TẠO VIEW](https://www.youtube.com/watch?v=1uIryQoTLAE)
 <!-- YOUTUBE:END -->
 
 ---
