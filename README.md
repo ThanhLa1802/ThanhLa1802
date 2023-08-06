@@ -26,8 +26,8 @@
 ### 📺 YouTube Videos
 
 <!-- YOUTUBE:START -->
-- [XỬ LÝ CONFLICT TRONG  GIT - P2](https://www.youtube.com/watch?v=1I2tT7-ci0A)
-- [NHỮNG CÂU LỆNH GIT ỨNG DỤNG THỰC TẾ - P1](https://www.youtube.com/watch?v=K5qI3fDnAAc)
+- [GIT #2: XỬ LÝ CONFLICT CODE TRONG CÙNG 1 FILE](https://www.youtube.com/watch?v=1I2tT7-ci0A)
+- [GIT #1: NHỮNG CÂU LỆNH CƠ BẢN](https://www.youtube.com/watch?v=K5qI3fDnAAc)
 - [THƯ VIỆN PYTHON #3 - CALL API VỚI THƯ VIỆN REQUESTS](https://www.youtube.com/watch?v=U59MZoEkbRg)
 - [THƯ VIỆN PYTHON #2 - RANDOM LIBRARY](https://www.youtube.com/watch?v=6vAoGo1l8-I)
 - [LẤY LẠI DUNG LƯỢNG Ổ ĐĨA VỚI DISK-CLEAN UP WINDOWS 11! #Shorts](https://www.youtube.com/watch?v=nakeJ183NEY)
