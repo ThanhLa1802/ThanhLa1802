@@ -26,11 +26,11 @@
 ### 📺 YouTube Videos
 
 <!-- YOUTUBE:START -->
-- [GIT #2: XỬ LÝ CONFLICT CODE TRONG CÙNG 1 FILE](https://www.youtube.com/watch?v=1I2tT7-ci0A)
+- [GIT #3: UPDATE CODE TỪ NHÁNH KHÁC VỚI REBASE HOẶC MERGE](https://www.youtube.com/watch?v=cCW4UEV9dSY)
+- [GIT #2: XỬ LÝ CONFLICT CODE TRONG CÙNG FILE](https://www.youtube.com/watch?v=1I2tT7-ci0A)
 - [GIT #1: NHỮNG CÂU LỆNH CƠ BẢN](https://www.youtube.com/watch?v=K5qI3fDnAAc)
 - [THƯ VIỆN PYTHON #3 - CALL API VỚI THƯ VIỆN REQUESTS](https://www.youtube.com/watch?v=U59MZoEkbRg)
 - [THƯ VIỆN PYTHON #2 - RANDOM LIBRARY](https://www.youtube.com/watch?v=6vAoGo1l8-I)
-- [LẤY LẠI DUNG LƯỢNG Ổ ĐĨA VỚI DISK-CLEAN UP WINDOWS 11! #Shorts](https://www.youtube.com/watch?v=nakeJ183NEY)
 <!-- YOUTUBE:END -->
 
 ---
