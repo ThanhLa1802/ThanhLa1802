@@ -26,11 +26,11 @@
 ### 📺 YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [THƯ VIỆN PYTHON #4 - VALIDATE DATA VỚI THƯ VIỆN MARSHMALLOW](https://www.youtube.com/watch?v=cY-2HiNuGfc)
 - [GIT #5: CÁCH GỘP CÁC COMMIT - TẠO PULL REQUEST](https://www.youtube.com/watch?v=O3G2uSXqK5k)
 - [GIT #4: KHÁC NHAU GIỮA MERGE VS REBASE](https://www.youtube.com/watch?v=AjcYGAT_t8s)
 - [GIT #3: UPDATE CODE TỪ NHÁNH KHÁC VỚI REBASE HOẶC MERGE](https://www.youtube.com/watch?v=cCW4UEV9dSY)
 - [GIT #2: XỬ LÝ CONFLICT CODE TRONG CÙNG FILE](https://www.youtube.com/watch?v=1I2tT7-ci0A)
-- [GIT #1: NHỮNG CÂU LỆNH CƠ BẢN](https://www.youtube.com/watch?v=K5qI3fDnAAc)
 <!-- YOUTUBE:END -->
 
 ---
