@@ -26,11 +26,11 @@
 ### 📺 YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [CÁCH KHÔI PHỤC TÀI KHOẢN STEAM BỊ ĐỔI EMAIL](https://www.youtube.com/watch?v=xD8Dwdp09rM)
 - [THƯ VIỆN PYTHON #4 - VALIDATE, POSTLOAD, PRELOAD THƯ VIỆN MARSHMALLOW](https://www.youtube.com/watch?v=0Ytzn--DJV4)
 - [THƯ VIỆN PYTHON #4 - VALIDATE DATA VỚI THƯ VIỆN MARSHMALLOW](https://www.youtube.com/watch?v=cY-2HiNuGfc)
 - [GIT #5: CÁCH GỘP CÁC COMMIT - TẠO PULL REQUEST](https://www.youtube.com/watch?v=O3G2uSXqK5k)
 - [GIT #4: KHÁC NHAU GIỮA MERGE VS REBASE](https://www.youtube.com/watch?v=AjcYGAT_t8s)
-- [GIT #3: UPDATE CODE TỪ NHÁNH KHÁC VỚI REBASE HOẶC MERGE](https://www.youtube.com/watch?v=cCW4UEV9dSY)
 <!-- YOUTUBE:END -->
 
 ---
