@@ -26,11 +26,11 @@
 ### 📺 YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [TRUY CẬP STEAM LỖI 102 + MUA GAME BLACK MYTH WUKONG](https://www.youtube.com/watch?v=9K-yMeKc6no)
 - [GIT #6: GIT RESET,  AMEND, CHERRY PICK](https://www.youtube.com/watch?v=cR-yBrJrbgE)
 - [NGUỒN GỐC LOGO CỦA APPLE CÓ THỂ BẠN CHƯA BIẾT ? #computer #laptrinh #thanhit #apple  #shorts](https://www.youtube.com/watch?v=vgrsHWL9USw)
 - [PHẦN MỀM LÀM VIDEO NHƯ KTTV, WEB5NGAY](https://www.youtube.com/watch?v=0pNhHTI3npI)
 - [CÁCH KHÔI PHỤC TÀI KHOẢN STEAM BỊ ĐỔI EMAIL](https://www.youtube.com/watch?v=xD8Dwdp09rM)
-- [THƯ VIỆN PYTHON #4 - VALIDATE, POSTLOAD, PRELOAD THƯ VIỆN MARSHMALLOW](https://www.youtube.com/watch?v=0Ytzn--DJV4)
 <!-- YOUTUBE:END -->
 
 ---
