@@ -26,11 +26,11 @@
 ### 📺 YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [HƯỚNG DẪN TẢI VÀ CÀI ĐẶT PYTHON &lpar;3.13.1&rpar; @code+ VISUAL STUDIO CODE 2025](https://www.youtube.com/watch?v=s9MBNkYnI0I)
 - [KHÓA HỌC &quot;Xây Dựng RESTful API với Flask và Python&quot; TRÊN UDEMY](https://www.youtube.com/watch?v=mXMy7IHEPWw)
 - [TRUY CẬP STEAM LỖI 102 + MUA GAME BLACK MYTH WUKONG](https://www.youtube.com/watch?v=9K-yMeKc6no)
 - [GIT #6: GIT RESET,  AMEND, CHERRY PICK](https://www.youtube.com/watch?v=cR-yBrJrbgE)
 - [NGUỒN GỐC LOGO CỦA APPLE CÓ THỂ BẠN CHƯA BIẾT ? #computer #laptrinh #thanhit #apple  #shorts](https://www.youtube.com/watch?v=vgrsHWL9USw)
-- [PHẦN MỀM LÀM VIDEO NHƯ KTTV, WEB5NGAY](https://www.youtube.com/watch?v=0pNhHTI3npI)
 <!-- YOUTUBE:END -->
 
 ---
