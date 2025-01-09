@@ -26,11 +26,11 @@
 ### 📺 YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Python là gì, vì sao được sử dụng phổ biến](https://www.youtube.com/watch?v=YY6uexFCgX8)
 - [TỔNG HỢP LỆNH GIT ỨNG DỤNG THỰC TẾ 2025](https://www.youtube.com/watch?v=eVEuaZGODLU)
 - [HƯỚNG DẪN TẢI VÀ CÀI ĐẶT PYTHON &lpar;3.13.1&rpar; + VISUAL STUDIO CODE 2025](https://www.youtube.com/watch?v=s9MBNkYnI0I)
 - [KHÓA HỌC &quot;Xây Dựng RESTful API với Flask và Python&quot; TRÊN UDEMY](https://www.youtube.com/watch?v=mXMy7IHEPWw)
 - [TRUY CẬP STEAM LỖI 102 + MUA GAME BLACK MYTH WUKONG](https://www.youtube.com/watch?v=9K-yMeKc6no)
-- [GIT #6: GIT RESET,  AMEND, CHERRY PICK](https://www.youtube.com/watch?v=cR-yBrJrbgE)
 <!-- YOUTUBE:END -->
 
 ---
