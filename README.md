@@ -26,11 +26,11 @@
 ### 📺 YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Trình duyệt web kiếm tiền thế nào ?](https://www.youtube.com/watch?v=dWDc8y6c4dA)
 - [Python là gì, vì sao được sử dụng phổ biến](https://www.youtube.com/watch?v=YY6uexFCgX8)
 - [TỔNG HỢP LỆNH GIT ỨNG DỤNG THỰC TẾ 2025](https://www.youtube.com/watch?v=eVEuaZGODLU)
 - [HƯỚNG DẪN TẢI VÀ CÀI ĐẶT PYTHON &lpar;3.13.1&rpar; + VISUAL STUDIO CODE 2025](https://www.youtube.com/watch?v=s9MBNkYnI0I)
 - [KHÓA HỌC &quot;Xây Dựng RESTful API với Flask và Python&quot; TRÊN UDEMY](https://www.youtube.com/watch?v=mXMy7IHEPWw)
-- [TRUY CẬP STEAM LỖI 102 + MUA GAME BLACK MYTH WUKONG](https://www.youtube.com/watch?v=9K-yMeKc6no)
 <!-- YOUTUBE:END -->
 
 ---
