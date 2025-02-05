@@ -26,7 +26,7 @@
 ### 📺 YouTube Videos
 
 <!-- YOUTUBE:START -->
-- [Deepseek AI có gì để đe dạo các ông lớn](https://www.youtube.com/watch?v=tksu9QGe1sc)
+- [Deepseek AI có gì để đe doạ các ông lớn](https://www.youtube.com/watch?v=tksu9QGe1sc)
 - [Trình duyệt web kiếm tiền từ bạn như thế nào?](https://www.youtube.com/watch?v=dWDc8y6c4dA)
 - [Python là gì, vì sao được sử dụng phổ biến](https://www.youtube.com/watch?v=YY6uexFCgX8)
 - [TỔNG HỢP LỆNH GIT ỨNG DỤNG THỰC TẾ 2025](https://www.youtube.com/watch?v=eVEuaZGODLU)
