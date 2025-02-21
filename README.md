@@ -26,11 +26,11 @@
 ### 📺 YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Google Maps – Cỗ Máy In Tiền Giữa Lòng Đường Phố!](https://www.youtube.com/watch?v=pt4g-X8-YME)
 - [Bóc Trần Bí Mật Chip Máy Tính – Tại Sao Bé Tí Mà Đắt Xắt Ra Miếng?](https://www.youtube.com/watch?v=V-y9J6I5CY0)
 - [Deepseek AI có gì để đe doạ các ông lớn](https://www.youtube.com/watch?v=tksu9QGe1sc)
 - [Trình duyệt web kiếm tiền từ bạn như thế nào?](https://www.youtube.com/watch?v=dWDc8y6c4dA)
 - [Python là gì, vì sao được sử dụng phổ biến](https://www.youtube.com/watch?v=YY6uexFCgX8)
-- [TỔNG HỢP LỆNH GIT ỨNG DỤNG THỰC TẾ 2025](https://www.youtube.com/watch?v=eVEuaZGODLU)
 <!-- YOUTUBE:END -->
 
 ---
