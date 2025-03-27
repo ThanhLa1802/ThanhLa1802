@@ -26,11 +26,11 @@
 ### 📺 YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Sự thật về HDD và SSD – Lựa chọn nào phù hợp cho bạn?](https://www.youtube.com/watch?v=sWwhLnIpzIk)
 - [RAM là gì? Hiểu cho đúng trước khi nâng cấp kẻo phí tiền!](https://www.youtube.com/watch?v=686BEEKNpNI)
 - [Google Maps – Cỗ máy kiếm tiền khổng lồ của Google!](https://www.youtube.com/watch?v=pt4g-X8-YME)
 - [Bóc Trần Bí Mật Chip Máy Tính – Tại Sao Bé Tí Mà Đắt Xắt Ra Miếng?](https://www.youtube.com/watch?v=V-y9J6I5CY0)
 - [Deepseek AI có gì để đe doạ các ông lớn](https://www.youtube.com/watch?v=tksu9QGe1sc)
-- [Trình duyệt web kiếm tiền từ bạn như thế nào?](https://www.youtube.com/watch?v=dWDc8y6c4dA)
 <!-- YOUTUBE:END -->
 
 ---
