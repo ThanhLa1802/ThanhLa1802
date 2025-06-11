@@ -27,7 +27,7 @@
 
 <!-- YOUTUBE:START -->
 - [Video quảng cáo bằng Veo3 cực chất!](https://www.youtube.com/watch?v=_CCLztBQoso)
-- [Xin chào Việt Nam - Video tạo bằng veo 3 quá đỉnh #veo3 #vietnam #ai](https://www.youtube.com/watch?v=4yub1CvO_Yk)
+- [Xin chào Việt Nam - Video tạo bằng veo 3 quá đỉnh #veo3 #vietnam #ai](https://www.youtube.com/shorts/4yub1CvO_Yk)
 - [Sự thật về ổ cứng  – SSD hay HDD lựa chọn nào phù hợp cho bạn](https://www.youtube.com/watch?v=sWwhLnIpzIk)
 - [RAM là gì? Hiểu cho đúng trước khi nâng cấp kẻo phí tiền!](https://www.youtube.com/watch?v=686BEEKNpNI)
 - [Google Maps – Cỗ máy kiếm tiền khổng lồ của Google!](https://www.youtube.com/watch?v=pt4g-X8-YME)
