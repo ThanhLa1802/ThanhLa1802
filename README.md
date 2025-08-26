@@ -26,11 +26,11 @@
 ### 📺 YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [AI nhận diện cầu thủ và số áo trong bóng đá | YOLO Object Detection + Classification](https://www.youtube.com/watch?v=FbJ9uYJqtAo)
 - [PHÂN LOẠI LOGO CÁC HÃNG XE BẰNG DEEP LEARNING | MINI PROJECT PYTHON](https://www.youtube.com/watch?v=PdUK77O7J18)
 - [HƯỚNG DẪN CÀI PYTORCH TRÊN GPU &lpar;CARD ĐỒ HỌA RỜI&rpar;](https://www.youtube.com/watch?v=dUdwrvPDwd4)
 - [Video quảng cáo bằng Veo3 cực chất!](https://www.youtube.com/watch?v=_CCLztBQoso)
 - [Xin chào Việt Nam - Video tạo bằng veo 3 quá đỉnh #veo3 #vietnam #ai](https://www.youtube.com/shorts/4yub1CvO_Yk)
-- [Sự thật về ổ cứng  – SSD hay HDD lựa chọn nào phù hợp cho bạn](https://www.youtube.com/watch?v=sWwhLnIpzIk)
 <!-- YOUTUBE:END -->
 
 ---
