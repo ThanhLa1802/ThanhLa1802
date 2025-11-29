@@ -26,11 +26,11 @@
 ### 📺 YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Todo List App ReactJS + Flask #3: Tạo các services và controller](https://www.youtube.com/watch?v=MvjPOu_8Ajg)
 - [Todo List App ReactJS + Flask #2: Tạo Database &amp; Viết Truy Vấn Cho User và Todo](https://www.youtube.com/watch?v=7k8_61UWYdk)
 - [Todo List App ReactJS + Flask #1: Cài đặt thư viện &amp; Khởi tạo cấu trúc dự án](https://www.youtube.com/watch?v=AQGI3J5RAbw)
 - [GIỚI THIỆU ỨNG DỤNG TODO LIST VỚI FLASK + REACTJS + MATERIAL UI](https://www.youtube.com/watch?v=FY7uTerjDmg)
 - [AI nhận diện cầu thủ và số áo trong bóng đá | YOLO Object Detection + Classification](https://www.youtube.com/watch?v=FbJ9uYJqtAo)
-- [PHÂN LOẠI LOGO CÁC HÃNG XE BẰNG DEEP LEARNING | MINI PROJECT PYTHON](https://www.youtube.com/watch?v=PdUK77O7J18)
 <!-- YOUTUBE:END -->
 
 ---
