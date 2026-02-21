@@ -26,11 +26,11 @@
 ### 📺 YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [CHÚC MỪNG NĂM MỚI 2026 - CHIA SẺ BLOG CÁ NHÂN](https://www.youtube.com/watch?v=soIIhG0jJo0)
 - [Giới thiệu RAG Chatbot on AWS | OpenAI + Pinecone + Lambda + API Gateway](https://www.youtube.com/watch?v=bo1B3NiotTw)
 - [Điều gì xảy ra khi bạn query 1 TRIỆU bản ghi từ Database?](https://www.youtube.com/watch?v=mp3wb0UBP4Q)
 - [Todo List App ReactJS + Flask #5: Triển khai Front-end](https://www.youtube.com/watch?v=g0z3K61zbdg)
 - [Todo List App ReactJS + Flask #4: Fix lỗi và chạy thử API](https://www.youtube.com/watch?v=zMOV5-gG9AI)
-- [Todo List App ReactJS + Flask #3: Tạo các services và controller](https://www.youtube.com/watch?v=MvjPOu_8Ajg)
 <!-- YOUTUBE:END -->
 
 ---
