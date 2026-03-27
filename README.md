@@ -26,11 +26,11 @@
 ### 📺 YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [RAG CHATBOT #1: KHỞI TẠO FAST API VỚI DOCKER](https://www.youtube.com/watch?v=ru5PLdSf7_c)
 - [RAG CHATBOT - TRỢ LÝ CHO WEB BÁN HÀNG](https://www.youtube.com/watch?v=DUtoz5Xip7U)
 - [HƯỚNG DẪN TẢI VÀ CÀI ĐẶT GOLANG](https://www.youtube.com/watch?v=LdElpi0cgk8)
 - [CHÚC MỪNG NĂM MỚI 2026 - CHIA SẺ BLOG CÁ NHÂN](https://www.youtube.com/watch?v=soIIhG0jJo0)
 - [Giới thiệu RAG Chatbot on AWS | OpenAI + Pinecone + Lambda + API Gateway](https://www.youtube.com/watch?v=bo1B3NiotTw)
-- [Điều gì xảy ra khi bạn query 1 TRIỆU bản ghi từ Database?](https://www.youtube.com/watch?v=mp3wb0UBP4Q)
 <!-- YOUTUBE:END -->
 
 ---
