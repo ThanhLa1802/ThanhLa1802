@@ -26,11 +26,11 @@
 ### 📺 YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [RAG CHATBOT #4: CHUNKING DỮ LIỆU VÀ IMPORT VÀO VECTO DATABASE](https://www.youtube.com/watch?v=m08z9Kc9ku8)
 - [RAG CHATBOT #3: EXPORT DỮ LIỆU TRONG DATABASE](https://www.youtube.com/watch?v=HWpUCwFDypg)
 - [RAG CHATBOT #2: KHỞI TẠO MY SQL, QDRANT TRÊN  DOCKER](https://www.youtube.com/watch?v=iUVEwWeABvM)
 - [RAG CHATBOT #1: KHỞI TẠO FAST API VỚI DOCKER](https://www.youtube.com/watch?v=ru5PLdSf7_c)
 - [RAG CHATBOT - TRỢ LÝ CHO WEB BÁN HÀNG](https://www.youtube.com/watch?v=DUtoz5Xip7U)
-- [HƯỚNG DẪN TẢI VÀ CÀI ĐẶT GOLANG](https://www.youtube.com/watch?v=LdElpi0cgk8)
 <!-- YOUTUBE:END -->
 
 ---
