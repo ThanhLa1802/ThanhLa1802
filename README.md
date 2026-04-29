@@ -26,11 +26,11 @@
 ### 📺 YouTube Videos
 
 <!-- YOUTUBE:START -->
-- [RAG CHATBOT #4: CHUNKING DỮ LIỆU VÀ IMPORT VÀO VECTO DATABASE](https://www.youtube.com/watch?v=m08z9Kc9ku8)
-- [RAG CHATBOT #3: EXPORT DỮ LIỆU TRONG DATABASE](https://www.youtube.com/watch?v=HWpUCwFDypg)
-- [RAG CHATBOT #2: KHỞI TẠO MY SQL, QDRANT TRÊN  DOCKER](https://www.youtube.com/watch?v=iUVEwWeABvM)
-- [RAG CHATBOT #1: KHỞI TẠO FAST API VỚI DOCKER](https://www.youtube.com/watch?v=ru5PLdSf7_c)
-- [RAG CHATBOT - TRỢ LÝ CHO WEB BÁN HÀNG](https://www.youtube.com/watch?v=DUtoz5Xip7U)
+- [RAG CHATBOT #5: Hoàn thiện RAG chatbot kết hợp với giao diện UI](https://www.youtube.com/watch?v=YUkDjKjRBjs)
+- [RAG CHATBOT #4: Tối ưu Chunking và Import Vector Database &lpar;Qdrant&rpar;](https://www.youtube.com/watch?v=m08z9Kc9ku8)
+- [RAG CHATBOT #3: Kết nối MySQL và Export dữ liệu cực nhanh](https://www.youtube.com/watch?v=HWpUCwFDypg)
+- [RAG CHATBOT #2: Cấu hình Database MySQL và Vector DB Qdrant với Docker](https://www.youtube.com/watch?v=iUVEwWeABvM)
+- [RAG CHATBOT #1: Setup môi trường Fast API và Docker cực nhanh](https://www.youtube.com/watch?v=ru5PLdSf7_c)
 <!-- YOUTUBE:END -->
 
 ---
