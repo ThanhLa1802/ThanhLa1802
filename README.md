@@ -26,11 +26,11 @@
 ### 📺 YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Học ngôn ngữ lập trình Go cùng chuyên gia Claude code](https://www.youtube.com/watch?v=nWgyxnnzx_U)
 - [Hướng dẫn tích hợp Deepseek vào Claude và Copilot](https://www.youtube.com/watch?v=dOmceMQuEOc)
 - [RAG CHATBOT #5: Hoàn thiện RAG chatbot kết hợp với giao diện UI](https://www.youtube.com/watch?v=YUkDjKjRBjs)
 - [RAG CHATBOT #4: Tối ưu Chunking và Import Vector Database &lpar;Qdrant&rpar;](https://www.youtube.com/watch?v=m08z9Kc9ku8)
 - [RAG CHATBOT #3: Kết nối MySQL và Export dữ liệu cực nhanh](https://www.youtube.com/watch?v=HWpUCwFDypg)
-- [RAG CHATBOT #2: Cấu hình Database MySQL và Vector DB Qdrant với Docker](https://www.youtube.com/watch?v=iUVEwWeABvM)
 <!-- YOUTUBE:END -->
 
 ---
