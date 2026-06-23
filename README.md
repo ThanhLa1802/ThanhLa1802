@@ -26,11 +26,11 @@
 ### 📺 YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Vì sao các hệ thống lớn lại dùng Go?](https://www.youtube.com/watch?v=jDlua40-Fw4)
 - [Học Lập Trình Go &lpar;Golang&rpar; Siêu Tốc Cùng &quot;Trợ Lý AI&quot; Claude Code](https://www.youtube.com/watch?v=nWgyxnnzx_U)
 - [Hướng dẫn tích hợp Deepseek vào Claude và Copilot](https://www.youtube.com/watch?v=dOmceMQuEOc)
 - [RAG CHATBOT #5: Hoàn thiện RAG chatbot kết hợp với giao diện UI](https://www.youtube.com/watch?v=YUkDjKjRBjs)
 - [RAG CHATBOT #4: Tối ưu Chunking và Import Vector Database &lpar;Qdrant&rpar;](https://www.youtube.com/watch?v=m08z9Kc9ku8)
-- [RAG CHATBOT #3: Kết nối MySQL và Export dữ liệu cực nhanh](https://www.youtube.com/watch?v=HWpUCwFDypg)
 <!-- YOUTUBE:END -->
 
 ---
