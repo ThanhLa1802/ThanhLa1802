@@ -26,11 +26,11 @@
 ### 📺 YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Hướng dẫn cài đặt bộ Skill cực hay cho Claude Code](https://www.youtube.com/watch?v=Fv2zptkz7uc)
 - [Go with Claude Code #2: Hiểu sâu về Channel trong Golang](https://www.youtube.com/watch?v=Lgd5I-445J8)
 - [Vì sao các hệ thống lớn lại dùng Go?](https://www.youtube.com/watch?v=jDlua40-Fw4)
 - [Học Lập Trình Go &lpar;Golang&rpar; Siêu Tốc Cùng &quot;Trợ Lý AI&quot; Claude Code](https://www.youtube.com/watch?v=nWgyxnnzx_U)
 - [Hướng dẫn tích hợp Deepseek vào Claude và Copilot](https://www.youtube.com/watch?v=dOmceMQuEOc)
-- [RAG CHATBOT #5: Hoàn thiện RAG chatbot kết hợp với giao diện UI](https://www.youtube.com/watch?v=YUkDjKjRBjs)
 <!-- YOUTUBE:END -->
 
 ---
