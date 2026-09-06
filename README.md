@@ -26,11 +26,11 @@
 ### 📺 YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [TỰ HOST MODEL AI TRÊN MÁY CÁ NHÂN VỚI LLAMA.CPP](https://www.youtube.com/watch?v=eYtsRyF2I_U)
 - [Tâm sự IT: Tại sao mình nghỉ việc ở tuổi 30?](https://www.youtube.com/watch?v=TkcO0tRrbTk)
 - [Hướng dẫn cài đặt bộ Skill cực hay cho Claude Code](https://www.youtube.com/watch?v=Fv2zptkz7uc)
 - [Go with Claude Code #2: Hiểu sâu về Channel trong Golang](https://www.youtube.com/watch?v=Lgd5I-445J8)
 - [Vì sao các hệ thống lớn lại dùng Go?](https://www.youtube.com/watch?v=jDlua40-Fw4)
-- [Học Lập Trình Go &lpar;Golang&rpar; Siêu Tốc Cùng &quot;Trợ Lý AI&quot; Claude Code](https://www.youtube.com/watch?v=nWgyxnnzx_U)
 <!-- YOUTUBE:END -->
 
 ---
