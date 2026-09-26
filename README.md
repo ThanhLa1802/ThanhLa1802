@@ -27,7 +27,7 @@
 
 <!-- YOUTUBE:START -->
 - [TỰ HOST AI LOCAL #2: TÍCH HỢP THÊM NHIỀU TÍNH NĂNG MỚI](https://www.youtube.com/watch?v=a5kXRpZZhZ8)
-- [TỰ HOST AI LOCAL #1: TRÊN MÁY CÁ NHÂN VỚI LLAMA.CPP](https://www.youtube.com/watch?v=eYtsRyF2I_U)
+- [TỰ HOST AI LOCAL #1: CHẠY MODEL QWEN VỚI LLAMA.CPP](https://www.youtube.com/watch?v=eYtsRyF2I_U)
 - [Tâm sự IT: Tại sao mình nghỉ việc ở tuổi 30?](https://www.youtube.com/watch?v=TkcO0tRrbTk)
 - [Hướng dẫn cài đặt bộ Skill cực hay cho Claude Code](https://www.youtube.com/watch?v=Fv2zptkz7uc)
 - [Go with Claude Code #2: Hiểu sâu về Channel trong Golang](https://www.youtube.com/watch?v=Lgd5I-445J8)
