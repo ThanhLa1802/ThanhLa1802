@@ -1,9 +1,41 @@
-### Hi, I'm THANH LA <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> -  [THÀNH IT][website] = Software Engineer + Youtuber 🌻  
+### Hi there, I'm THANH LA <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
+**Software Engineer · Python Developer · Content Creator**
 
-- 🔭 Passion in something ... (secret😊)
-- 💪 2021 Goals: Learning many things in Python
-- ⭐: Reading, listening, walking, running, playing piano... and blade wind😅
+I build backend systems and developer tools, and I share what I learn on YouTube as [THÀNH IT][website].
+My focus is on **Python**, **Golang**, and practical **AI/LLM** engineering — self-hosting models,
+local inference with llama.cpp/Ollama, RAG pipelines, and shipping things that actually run in production.
+
+---
+
+### 🚀 About me
+
+- 🔭 Currently building and self-hosting **AI/LLM** tooling and automation.
+- 🌱 Deepening my skills in **Golang**, distributed systems, and **LLM engineering**.
+- 🎥 Sharing tutorials on Python, Go, Claude Code, and running AI locally on my YouTube channel.
+- 💬 Ask me about Python, Golang, Docker/self-hosting, or local LLMs.
+- ⚡ Fun fact: I read, run, play piano — and I still love a good anime fight scene 😅
+
+---
+
+### 🧰 Languages and Tools
+
+<p align="left">
+  <img alt="Python" width="32px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" />
+  <img alt="Go" width="32px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" />
+  <img alt="TypeScript" width="32px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" />
+  <img alt="JavaScript" width="32px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" />
+  <img alt="React" width="32px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" />
+  <img alt="PostgreSQL" width="32px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" />
+  <img alt="Redis" width="32px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original.svg" />
+  <img alt="MongoDB" width="32px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" />
+  <img alt="Docker" width="32px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" />
+  <img alt="Linux" width="32px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" />
+  <img alt="Git" width="32px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" />
+  <img alt="VS Code" width="32px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" />
+</p>
+
+---
 
 ### :zap: GitHub Stats
 
@@ -15,11 +47,7 @@
   </td>
   <td width="52%"><img alt="gif" align="right" src=".github/assets/coding-freak.gif"/></td>
 </tr>
-<table>
-
-### Languages and Tools:
-<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
-<img align="left" alt="Python" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Python.svg/1200px-Python.svg.png" /> 
+</table>
 
 ---
 
@@ -35,8 +63,9 @@
 
 ---
 
-### 📫 Contact me via:
-- EMAIL: lathanhmta@gmail.com
-- YOTUBE: THÀNH IT
+### 📫 Contact me
+
+- 📧 Email: lathanhmta@gmail.com
+- 📺 YouTube: [THÀNH IT][website]
 
 [website]: https://www.youtube.com/channel/UC9L5_YMFz8JfBeQtUic8-3A
