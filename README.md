@@ -43,7 +43,7 @@ local inference with llama.cpp/Ollama, RAG pipelines, and shipping things that a
 ### :zap: GitHub Stats
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ThanhLa1802&theme=default" alt="ThanhLa1802 profile summary" />
+  <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ThanhLa1802&theme=default" alt="ThanhLa1802 profile summary" />
 </p>
 
 <p align="center">
@@ -52,11 +52,7 @@ local inference with llama.cpp/Ollama, RAG pipelines, and shipping things that a
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=ThanhLa1802" alt="GitHub Streak" />
-</p>
-
-<p align="center">
-  <img alt="gif" src=".github/assets/coding-freak.gif" />
+  <img width="60%" src="https://streak-stats.demolab.com/?user=ThanhLa1802" alt="GitHub Streak" />
 </p>
 
 ---
