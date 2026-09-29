@@ -1,16 +1,19 @@
 ### Hi there, I'm THANH LA <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
-**Software Engineer · Python Developer · Content Creator**
+**Backend Engineer (AI Platform) · Python Developer · Content Creator**
 
-I build backend systems and developer tools, and I share what I learn on YouTube as [THÀNH IT][website].
-My focus is on **Python**, **Golang**, and practical **AI/LLM** engineering — self-hosting models,
+I'm a backend engineer working on an **AI platform** — building the services and infrastructure that
+power LLM applications. I also share what I learn on YouTube as [THÀNH IT][website].
+
+My focus is on **Python**, **Golang**, and practical **AI/LLM** engineering — model serving,
 local inference with llama.cpp/Ollama, RAG pipelines, and shipping things that actually run in production.
 
 ---
 
 ### 🚀 About me
 
-- 🔭 Currently building and self-hosting **AI/LLM** tooling and automation.
+- 🔭 Backend Engineer on an **AI Platform** — building services and infra for LLM-powered products.
+- 🧠 Working with **LLM serving**, RAG, vector search, and self-hosted inference (llama.cpp/Ollama).
 - 🌱 Deepening my skills in **Golang**, distributed systems, and **LLM engineering**.
 - 🎥 Sharing tutorials on Python, Go, Claude Code, and running AI locally on my YouTube channel.
 - 💬 Ask me about Python, Golang, Docker/self-hosting, or local LLMs.
