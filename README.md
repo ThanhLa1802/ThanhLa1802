@@ -39,15 +39,22 @@ local inference with llama.cpp/Ollama, RAG pipelines, and shipping things that a
 
 ### :zap: GitHub Stats
 
-<table>
-<tr>
-  <td width="48%">
-    <img src="https://github-readme-stats.vercel.app/api?username=ThanhLa1802&show_icons=true&hide=contribs,issues&hide_border=true" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThanhLa1802&layout=compact&show_icons=true&hide_border=true" />
-  </td>
-  <td width="52%"><img alt="gif" align="right" src=".github/assets/coding-freak.gif"/></td>
-</tr>
-</table>
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ThanhLa1802&theme=default" alt="ThanhLa1802 profile summary" />
+</p>
+
+<p align="center">
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ThanhLa1802&theme=default" alt="Repos per language" />
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ThanhLa1802&theme=default" alt="Most commit language" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=ThanhLa1802" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <img alt="gif" src=".github/assets/coding-freak.gif" />
+</p>
 
 ---
 
