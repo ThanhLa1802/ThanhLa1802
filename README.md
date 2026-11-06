@@ -60,11 +60,11 @@ local inference with llama.cpp/Ollama, RAG pipelines, and shipping things that a
 ### 📺 YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [BACK-END THẬT SỰ LÀ GÌ? HIỂU ĐÚNG ĐỂ KHÔNG BỊ NGỢP CÔNG NGHỆ &lpar;P1&rpar;](https://www.youtube.com/watch?v=bcBIBm9OC3w)
 - [DOCKER LÀ GÌ? GIẢI THÍCH DỄ HIỂU NHẤT #thanhit #docker #shorts](https://www.youtube.com/shorts/K95Mv3sPFjk)
 - [GIỚI THIỆU WEB HỌC LẬP TRÌNH MIỄN PHÍ DO MÌNH TỰ PHÁT TRIỂN](https://www.youtube.com/watch?v=qjeWTcIOekY)
 - [HƯỚNG DẪN DEPLOY WEB NEXTJS LÊN VERCEL MIỄN PHÍ VÀ CỰC NHANH](https://www.youtube.com/watch?v=tdrqVTGW4RU)
 - [TỰ HOST AI LOCAL #3: TẠO ẢNH BẰNG STABLE DIFFUSION XL](https://www.youtube.com/watch?v=DdRkvgpmbvg)
-- [PROMPT INJECTION LÀ GÌ? CÁCH BẢO MẬT HỆ THỐNG AI &amp; CHATBOT](https://www.youtube.com/watch?v=V3YFbX0hTbc)
 <!-- YOUTUBE:END -->
 
 ---
