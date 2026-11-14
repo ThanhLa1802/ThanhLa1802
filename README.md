@@ -60,11 +60,11 @@ local inference with llama.cpp/Ollama, RAG pipelines, and shipping things that a
 ### 📺 YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Một yêu cầu đi qua Backend thế nào? #thanhit #code #laptrinh](https://www.youtube.com/shorts/fKn42t2jxqc)
 - [BACKEND LÀ GÌ? GIẢI THÍCH DỄ HIỂU NHẤT #thanhit #backend #shorts](https://www.youtube.com/shorts/hsJjOX4cQC0)
 - [BACK-END THẬT SỰ LÀ GÌ? HIỂU ĐÚNG ĐỂ KHÔNG BỊ NGỢP CÔNG NGHỆ &lpar;P1&rpar;](https://www.youtube.com/watch?v=bcBIBm9OC3w)
 - [DOCKER LÀ GÌ? GIẢI THÍCH DỄ HIỂU NHẤT #thanhit #docker #shorts](https://www.youtube.com/shorts/K95Mv3sPFjk)
 - [GIỚI THIỆU WEB HỌC LẬP TRÌNH MIỄN PHÍ DO MÌNH TỰ PHÁT TRIỂN](https://www.youtube.com/watch?v=qjeWTcIOekY)
-- [HƯỚNG DẪN DEPLOY WEB NEXTJS LÊN VERCEL MIỄN PHÍ VÀ CỰC NHANH](https://www.youtube.com/watch?v=tdrqVTGW4RU)
 <!-- YOUTUBE:END -->
 
 ---
